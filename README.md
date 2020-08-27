@@ -1,0 +1,3 @@
+- `common/config.py` contains some common configuration options for all scripts.
+- Some scripts write directly to `script_src` or `lib` - these locations must be set in `config`
+- Scripts must be run as modules, e.g. `python.exe -m parse_outlines`

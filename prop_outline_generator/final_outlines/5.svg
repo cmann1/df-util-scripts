@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:none;}
+	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;}
+</style>
+<g id="prop_5_24_1" transform="translate(5, 99)">
+	<rect x="-123" y="-105" class="st0" width="56" height="107"/>
+	<title  style="display:none">Virtual</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="55" height="106" xlink:href="../../_common/prop_sprites//npc_5_24_1_virtual.png"  transform="matrix(1.0113 0 0 1.0113 0.1894 -9.868699e-02)">
+	</image>
+	<path class="st1" d="M11.9,7.2l2.9,2.8l13.5-1.1V4.2L15.8,4.3L11.9,7.2z M28.1,15.2l8.1,19.2l11.4-3.8l6.6-11.3L32.5,6.2h-0.9
+		L28.1,15.2z M11.9,13.7l-1.6,4l-0.1,2.5h3.1l13.1-6.7l-2.9-3.4L11.9,13.7z M13.3,30.5v2.7h4.6l7.9-14.5l0.6-2.5h-3L13.3,30.5z
+		 M28.3,39.3v13.1l4.2,1.1l3.7,8.7H41l2.5-8.4l2.6-2.1l-4.3-13l-1.5-0.1L28.3,39.3z M14.1,66.6l3.3,5.2h2.9l2-3.7l-2.2-13.8
+		l-1.5-1.7L14.1,66.6z M45.6,67.7l4.4,4.8h2.6l2.3-4.2l-1.4-11.8l-1.7-1.1L45.6,67.7z M36.8,107h12l-2.3-34H45L36.8,107z M3.3,105.4
+		v1.3h16.9l7.3-31.2l-1-1L3.3,105.4z"/>
+</g>
+<g id="prop_5_25_1" transform="translate(5, 216)">
+	<rect x="-113" y="-119" class="st0" width="58" height="46"/>
+	<title  style="display:none">Arrow</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="57" height="45" xlink:href="../../_common/prop_sprites//symbol_5_25_1_arrow.png"  transform="matrix(1.0193 0 0 1.0193 -5.126691e-02 6.478255e-02)">
+	</image>
+	<path class="st1" d="M32.1,16.2l-28.8,0L3,33.6l29,0.1v12l26.3-21L32.1,2.9V16.2z"/>
+</g>
+<g id="prop_5_25_2" transform="translate(5, 5)">
+	<rect x="-145" y="-140" class="st0" width="99" height="84"/>
+	<title  style="display:none">Warning</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="98" height="83" xlink:href="../../_common/prop_sprites//symbol_5_25_2_warning.png"  transform="matrix(1.011 0 0 1.011 -3.776333e-02 4.454065e-02)">
+	</image>
+	<path class="st1" d="M3.5,72.4L9,83.6h84.2l5.3-10.9L59.4,4.6H42.7L3.5,72.4z M85.8,67l-3.4,7.6H19.8l-3.9-7.9l29.8-51.4h10.5
+		L85.8,67z M45.4,56.6h10v-31h-10V56.6z M46.4,70.8h10v-10h-10V70.8z"/>
+</g>
+</svg>

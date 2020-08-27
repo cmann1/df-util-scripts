@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2400 1200" style="enable-background:new 0 0 2400 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:none;}
+	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;}
+</style>
+<g id="prop_1_0_1" transform="translate(1776, 966)">
+	<rect x="-45" y="3" class="st0" width="96" height="47"/>
+	<title  style="display:none">Stack 1</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="95" height="46" xlink:href="../../_common/prop_sprites//books_1_0_1_stack_1.png"  transform="matrix(1.0127 0 0 1.0127 -0.1016 0.2087)">
+	</image>
+	<path class="st1" d="M9.4,4.3l-1.2,8.4l2.1,5.5h4.8l-0.7,11.5l-7.1,1.2l-4,3.6v7.2l1.2,4.5h89.6l1.3-5.1l-1.3-6.9l-2.3-1.5
+		l-21.3-0.2l-3.9-6.6l2.5-8.3l-4.7-3.5l2.4-8.6l-1.1-1L12.8,3.4L9.4,4.3z"/>
+</g>
+<g id="prop_1_0_2" transform="translate(457, 989)">
+	<rect x="-29" y="-11" class="st0" width="80" height="63"/>
+	<title  style="display:none">Stack 2</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="79" height="62" xlink:href="../../_common/prop_sprites//books_1_0_2_stack_2.png"  transform="matrix(1.014 0 0 1.014 -5.231117e-02 6.650023e-02)">
+	</image>
+	<path class="st1" d="M4.4,4.3L3.3,8.7V14l1.2,3.2h5.9l-3.2,3.2l0.6,10.1l7,3.4l0.6,6.2l-2.8,5.4l1.9,7.6l-3.2,6.4v1.7h64.9l3.2-6.1
+		l-2.2-10.7l-9.9-1.3v-7.5l-3.1-10.4l1.3-6.9L57.3,17L55,11.2l1.1-5.8L50,3.2L4.4,4.3z"/>
+</g>
+<g id="prop_1_0_3" transform="translate(1734, 1131)">
+	<rect x="-42" y="-3" class="st0" width="84" height="55"/>
+	<title  style="display:none">Stack 3</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="83" height="54" xlink:href="../../_common/prop_sprites//books_1_0_3_stack_3.png"  transform="matrix(1.014 0 0 1.014 -8.003623e-02 0.1226)">
+	</image>
+	<path class="st1" d="M28,5.9l-0.8,13.3h-9L4.1,41.5L8.3,49v1.2h-3V53l9.8,1.6l68.6-0.9l-0.4-5.2l-3.1-0.3l0.4-9.9l1.8-1.3l-2.7-2.7
+		L64,33.2l1.3-7.6l-3.1-1.2v-8.1h4.2l-1.6-3.5l0.3-8.5H30.8L28,5.9z"/>
+</g>
+<g id="prop_1_0_4" transform="translate(1962, 1046)">
+	<rect x="-34" y="7" class="st0" width="76" height="44"/>
+	<title  style="display:none">Stack 4</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="75" height="43" xlink:href="../../_common/prop_sprites//books_1_0_4_stack_4.png"  transform="matrix(1.0158 0 0 1.0158 -9.239082e-02 0.1604)">
+	</image>
+	<path class="st1" d="M21.5,3.6l-0.2,3.5L5,7.4L2.6,38.1l2.6,4.8l57.6,0.6l7.2-1.3l5.3-5L63.5,19.7l-6.1-6.5h-3.2V4.4L48,3.2
+		L21.5,3.6z"/>
+</g>
+<g id="prop_1_0_5" transform="translate(1882, 1165)">
+	<rect x="-33" y="26" class="st0" width="66" height="25"/>
+	<title  style="display:none">Green</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="65" height="24" xlink:href="../../_common/prop_sprites//books_1_0_5_green.png"  transform="matrix(1.0186 0 0 1.0186 -0.1036 0.2771)">
+	</image>
+	<path class="st1" d="M5.9,4.2L3.5,6.3l1.1,16.4l1.9,1.2l56-0.6l2.8-2.3V7.2l-1.8-3.7L5.9,4.2z"/>
+</g>
+<g id="prop_1_0_6" transform="translate(1958, 1165)">
+	<rect x="-33" y="26" class="st0" width="66" height="25"/>
+	<title  style="display:none">Purple</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="65" height="24" xlink:href="../../_common/prop_sprites//books_1_0_6_purple.png"  transform="matrix(1.0186 0 0 1.0186 -0.1036 0.2771)">
+	</image>
+	<path class="st1" d="M4.8,3.6l-1,17.6l2.3,2.3l57,1L65,21l0.3-14.5l-2.4-1.8L4.8,3.6z"/>
+</g>
+<g id="prop_1_0_7" transform="translate(1963, 625)">
+	<rect x="-40" y="25" class="st0" width="80" height="26"/>
+	<title  style="display:none">Brown Front</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="79" height="25" xlink:href="../../_common/prop_sprites//books_1_0_7_brown_front.png"  transform="matrix(1.0152 0 0 1.0152 -9.951392e-02 0.3103)">
+	</image>
+	<path class="st1" d="M2.9,5.1l1.5,2.7l2,12.5l-2.5,3l0.5,1.4l70.5,0.8l4.4-4.8l-0.1-11l-4.8-5L4.6,3.2L2.9,5.1z"/>
+</g>
+<g id="prop_1_0_8" transform="translate(2053, 625)">
+	<rect x="-34" y="26" class="st0" width="68" height="25"/>
+	<title  style="display:none">Brown</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="67" height="24" xlink:href="../../_common/prop_sprites//books_1_0_8_brown.png"  transform="matrix(1.018 0 0 1.018 -0.1031 0.284)">
+	</image>
+	<path class="st1" d="M4.2,4.9l1.4,18.3H63l3.2-1.2V6.4L65,3.2H6.8L4.2,4.9z"/>
+</g>
+<g id="prop_1_0_9" transform="translate(1542, 473)">
+	<rect x="-29" y="30" class="st0" width="58" height="21"/>
+	<title  style="display:none">Blue</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="57" height="20" xlink:href="../../_common/prop_sprites//books_1_0_9_blue.png"  transform="matrix(1.0212 0 0 1.0212 -0.1028 0.2885)">
+	</image>
+	<path class="st1" d="M4.9,4.7L3,10.3L4.3,19l4.4,1.1l44-1l4-0.8L57,4.4l-4.3-1.2L4.9,4.7z"/>
+</g>
+<g id="prop_1_0_10" transform="translate(1658, 935)">
+	<rect x="-34" y="28" class="st0" width="69" height="23"/>
+	<title  style="display:none">Red</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="68" height="22" xlink:href="../../_common/prop_sprites//books_1_0_10_red.png"  transform="matrix(1.0177 0 0 1.0177 -0.1004 0.3057)">
+	</image>
+	<path class="st1" d="M3.2,19.2l1.5,2.7h61.7l0.9-3.9V5.4l-3.2-1.2H3.5L3.2,19.2z"/>
+</g>
+<g id="prop_1_1_1" transform="translate(1411, 158)">
+	<rect x="139" y="87" class="st0" width="106" height="305"/>
+	<title  style="display:none">Pillar</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="105" height="304" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_1_pillar.png"  transform="matrix(1.004 0 0 1.004 0.2923 -0.1013)">
+	</image>
+	<path class="st1" d="M3.8,6.8L3.2,12l3,7.2H11l3.6,4h6.6l4.4,5.7l3.3,11.9l0.4,229.4l-1.5,1l-5.7,11.9l-1.7-2.7l-6.4,0.3l-3.9,1.6
+		l-5.9,8.1L4,297.5l3.1,3.4l7.4,3.3h4.6l2.4-3.3l33.8,1.3l25.7-1.5l6.7,3.7h3.9l8.4-4.3l5.6-5.4l0.1-11.3l-6.3-6.3L91,277l-1.8,1.7
+		l-3.8-6.3l-2.9-1.1V38.5L92,21.3l4.9-0.6l4.6-8l-1.2-4l-3.9-4L12.8,4.3L3.8,6.8z"/>
+</g>
+<g id="prop_1_1_2" transform="translate(1542, 830)">
+	<rect x="139" y="255" class="st0" width="106" height="137"/>
+	<title  style="display:none">Pillar Broken</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="105" height="136" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_2_pillar_broken.png"  transform="matrix(1.0082 0 0 1.0082 7.137808e-02 -5.520781e-02)">
+	</image>
+	<path class="st1" d="M29.8,12.7l-0.6,89.5h-1.5L22,114.5l-3.1-2.6l-6.5,0.4l-6,5l-3.2,8.1l0.9,5.2l10.1,5.4h4.6l2.6-3.2l39,1.5
+		l20.6-1.7l6.6,3.3h3.9l8.5-3.9l6.2-5.3v-10.2l-4.2-5.8l-2.4-2l-8.1-0.1l-2.1,2.4l-3.2-6.9l-3.8-2L83,45.5l-1-5.6l-8.5-6.7l-3.3-13
+		l-10.9,1.3L52.7,6.9l-4.1,4.4l-2.7-3.2l-7.5-3.9h-1.8L29.8,12.7z"/>
+</g>
+<g id="prop_1_1_3" transform="translate(324, 989)">
+	<rect x="135" y="230" class="st0" width="123" height="62"/>
+	<title  style="display:none">Piller Chunk</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="122" height="61" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_3_piller_chunk.png"  transform="matrix(1.0098 0 0 1.0098 -0.1003 0.1998)">
+	</image>
+	<path class="st1" d="M18,4.2l-2.8,4h-2.9v3h-1.6l-3.6,2.6l3.2,6.3V24L3,28.3l2.4,2.8l3.3,16.1l7.9,3.2l6.4,7.4l8.3,2.5l75.4-0.3
+		l4.5-2.8l4-7.9V44l7.4-14.7l-5.4-7.7V17l-3.2-6.7L109,7L97.9,3.2l-2.2,0.5L18,4.2z"/>
+</g>
+<g id="prop_1_1_4" transform="translate(324, 567)">
+	<rect x="16" y="55" class="st0" width="350" height="167"/>
+	<title  style="display:none">Deco Half</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="349" height="166" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_4_deco_half.png"  transform="matrix(1.0034 0 0 1.0034 -0.1018 0.2137)">
+	</image>
+	<path class="st1" d="M130.8,10.2l-26.3,10.7L81.3,33.4L62.2,51.1L40.5,78.7l-11.7,26L24,112l-2.5,1l-2.8-1.8h-7.2l-5.3,4.2l-3,5.7
+		v8.2l3,5.9l5.5,1.1l6.3,2.9l52.7-0.2l7.5-1.9v-4.7l10.2-2.4l8.8-6.8h1v5.2l3,6.4l10.5,10l11.4,4.5l12.2-0.5l11.4,11.2l8.2,3.9
+		l53.8,2.3l6.3-4l10.2-14.7l12.2-1.3l5.6-2.9l9.3-10.3l2-7.3v-2.6l7.5,6l8.8,3.1h3.7v4.9l5,2.6l57.5-1.3l7.9-2.1l3.9-3.5l0.8-7.6
+		l-2.1-7.8l-7.1-6.2l-4.8,0.1l-4.8,2.3l-5.1-4.6L314,83.2l-20.8-28.8l-17.7-17.3L251,22.7L219.7,9.1l-34.5-5.5l-28.3,1.8L130.8,10.2
+		z M200.3,39.4l-1.5,2.3l-0.4,12.8l-8.8-8.2l-10.4-1.5l-13.8,0.9l-10.8,4.1l-2-10.7l15.5-1.8l21.8-0.1L200.3,39.4z M141.4,49.2
+		l-1.3,8.6l-3.9,6.5l-6.7,3.1L117.6,68l-4.8-1.2l-6-5.4l-1.9-6l33.8-13.2l1.4-0.1L141.4,49.2z M248.3,56.1l-5.1,8.3l-6.8,2.8h-14.3
+		l-6.7-3.2l-4.1-8.4V45.4l1.2-3.1L248.3,56.1z M184.1,67.2l2.4,7.1l-1.2,6.6l-3.8,3.4l-6.9,1.1l-6.2-3.2l-2.1-3.9l-0.3-5.7l2.3-5.1
+		l4.7-4.4l5.6-0.4L184.1,67.2z M152.4,88.2h-1.2l-7.8-4h-4.3l6-5l3.6-7.5l2.4,14.3L152.4,88.2z M213.7,84.8l-5.7,0.5l-7.9,3.7
+		l2.5-6.5l1-9.5l4.1,6.9L213.7,84.8z M85.1,89.3l2.4,10l-1.3,8.9l-5.1,6.1l-5.7,2.9l-11.6,1.1l-2.9-2l2.2-11.6l4.3-11.5l8.5-12.3
+		L85.1,89.3z M120.8,86.8L104.6,97l-2.1-12.3l-1.4-3.4l10.7,4.1L120.8,86.8z M248.9,90.1l-0.5,9.2l-6-6l-10.2-5.9l10.6-1.8l8.8-4.4
+		L248.9,90.1z M285,94l5.9,13.2v11l-11.8-0.1l-8.8-4.1l-4.3-6.1l-0.9-9.6l1.3-7.3l9.4-9.3l2.3,0.4L285,94z M191.4,104.7l-15.3-0.5
+		l-13.5,2.2l-2.5-7.2l8.7,3.1L187,101l4.8-2.6l0.2-0.2L191.4,104.7z M141.4,105.4l2.9,5.7l-1.2,6l-11.6,10.1h-7.8l-3.4-7.1v-6l3-5.9
+		l7.5-3.9l7.3-0.1L141.4,105.4z M228.8,108.9l3.8,6.9l-0.6,6.4l-2.5,3.3l-10.3-11.2l-9.4-5.7l3.7-3.8l8.5-0.3L228.8,108.9z"/>
+</g>
+<g id="prop_1_1_5" transform="translate(1008, 5)">
+	<rect x="111" y="56" class="st0" width="167" height="163"/>
+	<title  style="display:none">Deco Quarter</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="166" height="162" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_5_deco_quarter.png"  transform="matrix(1.0061 0 0 1.0061 -6.022533e-03 6.130412e-03)">
+	</image>
+	<path class="st1" d="M7.4,4.7L5.8,6.4l-2,150.4l3.7,5.6l10.2-0.9l5.6-6.3V148l-4.2-5.9l23.7-6.1l18-7l31-17.2l19.1-19.1l21.3-29.5
+		l8.1-21.5l4.3-8.6l3.4-1.8l7.4,2.3l6.9-3.7l4-8.3V16l-3.2-6.8h-1.8V6.4l-2.5-2l-121-0.7L7.4,4.7z M35.3,12.7l-3.8,8.2l-6.7,5
+		L18,28.2h-6.7L10.8,9.6l1.4-2.4h23.1V12.7z M88.8,15.2l-6.3,3h-6.3l-6-3.1l-1.9-5V7.2h26.1L88.8,15.2z M61.3,23.3l6.9,7.6
+		l-10.4-1.6L54,32.7l1.1-6l0.7-13.6L61.3,23.3z M108.5,35.1l-4.8,15l-6.1,12L89,70.2h-1.3l4-15.9L89.3,45l-3.5-4.5l-8-5.8l10.6-1.5
+		l7.4-3.8l7.2-7.2l3.8-7h3.6L108.5,35.1z M36.3,52.9L34,62.2l-4.9-6.5l-7.8-5.2L34.8,49l4.6-1.8L36.3,52.9z M71.4,54.1l1,8.8
+		l-3.2,6.2l-1.9,1.1l-2,1h-6.7L54,67.9l-2.8-6.7l2.8-6.7l5.5-4.3h8.4L71.4,54.1z M18.3,68.5l1.1,6.2l-2.2,6l-6.3,6.5H9.3V63.1
+		l4.5,1.3L18.3,68.5z M58.5,89.4l8.9-0.6L65.2,91l-20.4,9l-26,8.1l-0.4-0.5l-0.5-0.4l4.6-3.2l14.8-20.2V76l7.1,6.2L58.5,89.4z"/>
+</g>
+<g id="prop_1_1_6" transform="translate(315, 363)">
+	<rect x="-3" y="98" class="st0" width="400" height="194"/>
+	<title  style="display:none">Drain</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="399" height="193" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_6_drain.png"  transform="matrix(1.003 0 0 1.003 -0.1013 0.2091)">
+	</image>
+	<path class="st1" d="M137.8,10.4L96.1,24.1L76.8,37L36.5,79.7l-23.1,57l-9.1,45.6v9.9l392.7,0.3l3.4-2.3l-8.6-40.6l-11.3-32.2
+		l-15-31.5l-23.8-33L331,43.4L276.9,14L228.8,4l-46-0.7L137.8,10.4z"/>
+</g>
+<g id="prop_1_1_7" transform="translate(1205, 247)">
+	<rect x="94" y="94" class="st0" width="196" height="196"/>
+	<title  style="display:none">Block Large</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="195" height="195" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_7_block_large.png"  transform="matrix(1.0051 0 0 1.0051 0 -4.036987e-05)">
+	</image>
+	<path class="st1" d="M3.3,8.1v171.6l14,16.2l169,0.1l9.5-10.9L196,12.9l-9.1-9.7L8.8,3.3L3.3,8.1z"/>
+</g>
+<g id="prop_1_1_8" transform="translate(1205, 936)">
+	<rect x="94" y="94" class="st0" width="100" height="100"/>
+	<title  style="display:none">Block Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="99" height="99" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_8_block_small.png"  transform="matrix(1.0101 0 0 1.0101 0 -4.036987e-05)">
+	</image>
+	<path class="st1" d="M3.3,10.4v84.5l4.6,4.3h86.2l5.2-6.2V8.6l-5.6-5.4h-82L3.3,10.4z"/>
+</g>
+<g id="prop_1_1_9" transform="translate(725, 187)">
+	<rect x="79" y="100" class="st0" width="229" height="285"/>
+	<title  style="display:none">Plate</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="228" height="284" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_9_plate.png"  transform="matrix(1.0039 0 0 1.0039 5.994163e-02 -4.818326e-02)">
+	</image>
+	<path class="st1" d="M3.5,43.6l0.2,121.3l20.5,22.7v23.5l3,14.6l8.9,18l13.4,15.6l17.2,13.9l12,6l14,3l41.2,2.3l19.1-2.2l12.3-4.9
+		l11.1-6.7l13.3-13.1l10.7-15.4l7.8-16.7l3-12.8v-16.2l16-15.6l-1.2-98l2.3-49l-49-30.7L58.8,3.3L3.5,43.6z M172.6,214.4l1,1
+		l-6.1,12.4l-9.8,10.9l-11.5,7.4l-15.6,4.2l-17.9,1.2l-16-3.2l-17-8.3l-14.2-14.2l-5.3-11.4v-3.2l1.8,1.1L172.6,214.4z"/>
+</g>
+<g id="prop_1_1_10" transform="translate(1918, 688)">
+	<rect x="-18" y="-133" class="st0" width="33" height="267"/>
+	<title  style="display:none">Wooden Pole</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="32" height="266" xlink:href="../../_common/prop_sprites//buildingblocks_1_1_10_wooden_pole.png"  transform="matrix(1.0042 0 0 1.0042 0.4335 -5.290355e-02)">
+	</image>
+	<path class="st1" d="M14.4,18.7l-11,9L3.3,267.1l29.5-0.1L31,3.1l-7.8,0.7L19.3,8L14.4,18.7z"/>
+</g>
+<g id="prop_1_2_1" transform="translate(1646, 5)">
+	<rect x="61" y="137" class="st0" width="275" height="127"/>
+	<title  style="display:none">Loop Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="274" height="126" xlink:href="../../_common/prop_sprites//chains_1_2_1_loop_small.png"  transform="matrix(1.0044 0 0 1.0044 -0.1027 0.2228)">
+	</image>
+	<path class="st1" d="M5.9,6.1l-1.8,5.8L3.9,23.3l10.9,18.6l5.6,4l8.4,1l5.5,6.2l-3,3.3l-0.4,8.5l2.5,8.1l15.2,15.6l7,2.3l10.7-1.2
+		l11.8,5.9l1.3,5.6l4.7,7.2l18.2,10.3H113l7.4-5l8.7,1.2l1.2,5.9l12.5,5.9h4.6l18.4-5.3l5.1-3.6l3.7-6.8l9.6-3.6l5.3,3.5l12.6,0.2
+		l20.1-11.8l4.7-14.7l8.7-10.8l5-0.1l7.1-2L264,55.1l2.4-7.1l-2.1-10.7l9.9-18.5l-0.4-6.4l-4.2-0.6l-5.3,4.2l-10.6,18.6l-13.5,0.1
+		L227,48.8l-1.4,4.8l0.8,14.4l-8.1,10.5l-9.8-2.8h-5l-17.8,11.7l-1.4,7.8l-12.2,4.9l-12.4-6.7l-8.9,1l-12,3.6l-5.5,5.9l-12.8-2.3
+		l-2.6-10l-10.4-6.9l-9.4-4H94l-11.4,4.2l-13.3-6.1V67.4L53.6,51.6h-6.7l-9.5-13.5l2.4-11.3l-3.9-8.7L27.4,6.6L12.5,3.9L5.9,6.1z
+		 M27.5,27.6h-4L21.8,34l-6.3-10.9l-2-5.3l1.4-1.4l5.9,1.2L27.5,27.6z M248.9,52.1l4,0.6l-8.8,7.9h-1.7v-2h-5v-3l11.5-12.4V52.1z
+		 M50.6,64.6l8.8,8.9v2.1h-4.1l-1.5,4.1L41.4,66.8v-2.4l7.3,2.5L50.6,64.6z M211.4,94.1l-11.8,7.3l-1.4-0.8l2.4-4.3l-3.7-2.7l10.8-7
+		h3.6L211.4,94.1L211.4,94.1z M109.8,100.3l-6.6,2.6l0.9,4.8h-0.9l-12.1-7.3l4.5-1.7l-0.9-5h3.8L109.8,100.3z M156.4,110.1l1,3.2
+		l-12.3,2.7l4.5-3.6l-3.5-3.8l13.7-4.1L156.4,110.1z"/>
+</g>
+<g id="prop_1_2_2" transform="translate(1492, 830)">
+	<rect x="174" y="61" class="st0" width="40" height="361"/>
+	<title  style="display:none">Straight</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="39" height="360" xlink:href="../../_common/prop_sprites//chains_1_2_2_straight.png"  transform="matrix(1.003 0 0 1.003 0.4406 -4.831649e-02)">
+	</image>
+	<path class="st1" d="M6.5,13.6L5,19l0.5,19.2l8.8,9.8v12.2L7,67.9l-2.5,8.8l3,20.6l8.6,8.1l0.1,9.9L4.3,126.7v13.2l2.3,11.5
+		l10.9,7.5l1,15.8L8.1,188.1l0.7,25l6.5,8.1l-0.9,13.6l-8.3,7.1l-0.3,23.3l9.9,10l0.5,12.4l-8.6,11.9l0.3,24.2l9.4,9.4V355l4.4,4.9
+		l1.9-0.1l4.2-6l0.7-23l10.2-9.4v-22.6l-11.3-11L27.1,277l4.3-3.9l3.8-8.3l-0.1-21.9l-8.9-12.6v-9.5l11.5-10.3l-0.3-23.4l-8.2-8.4
+		v-17.6l6.5-7.5l1.9-8.4l-2.8-18.7l-6.7-7.9L28,102.3l7.2-8.8V81.9L33,69.1l-7.8-5.2V49.4l5-3.2l3.7-7.5L35,18.5l-3.9-8.8l-5.6-6.4
+		l-6.1,0.3L6.5,13.6z M24.4,34.5l-3.2-2.6L16,34.3l1-13.2l5.1-5.5l2.5,2.3L24.4,34.5z M22,77.1l1.1,3.6l1.3,8.7l-3.9-1.2l-3.8,4.2
+		l-1.9-17.7l4.1,3.5L22,77.1z M21.5,134.4l4.7-2l1.3,15.3l-2.2-3.3l-3.8,0.8l-2.5,3.1l-1.7-1.7L16,133.4l2.1-4.2L21.5,134.4z
+		 M22.7,191.5l3.6,0.8v14.9l-5.8-4.3l-2.2,1.3v-11.9l2-4.1L22.7,191.5z M25.3,263.5l-3.6-3.4l-4.5,3.2l0.4-15.3l3.4,2.2l4.4-4.5
+		C25.4,245.7,25.3,263.5,25.3,263.5z M27.1,315.8l-3.1-2.1l-6.3,4.4l-0.6-6l0.7-7.7l3.4,3l5.5-6.3L27.1,315.8z"/>
+</g>
+<g id="prop_1_2_3" transform="translate(395, 5)">
+	<rect x="-98" y="101" class="st0" width="603" height="172"/>
+	<title  style="display:none">Loop Large</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="602" height="171" xlink:href="../../_common/prop_sprites//chains_1_2_3_loop_large.png"  transform="matrix(1.002 0 0 1.002 -9.427349e-02 0.3312)">
+	</image>
+	<path class="st1" d="M3.7,11.2v11.1l11.4,17l3.7,3.3l8.8,3.2l7.6-0.5l6,5.8v4.1l4.5,7.3l13,11.4l6.4,2.8h13.2l6.9,5.2v4.3l4.7,10
+		l3.8,3.3l18.6,9.5l10.1-1.2l12,7.1l1.8,6.8l6,6.7l19.5,7.5l11.9-2.1l11.2,5l2.4,6.4l6.2,7.5l5.3,2.7L217,160l10.1-4.1l16.6,1.3
+		l4.6,7.6l8.4,3.5l18.2,2.5l9.4-4.1l5.2-4.1h6.4l4.3,4.7l10.1,4.7l20.4-2.6l7-3.9l5.2-7.8l6.1-1.5l11.4,5.6l9.3-0.9l15-4.5l7.6-8
+		l1.2-5.9l5.5-2.8l10.9,2.3l17.8-4.7l6.4-4.2l7.4-11.4l11.2-5l12.2,1.2l19.5-7.6l5.8-8l1.2-7.2l9.7-5.4l13,1.2l17.3-8.8l5.1-5l3.9-9
+		l-0.8-6.2l7.5-5.3l1.2,2l16.2-0.1l16.7-15.1l3.3-5.9l0.3-7.4L601.6,16l-0.1-7.5L594.6,8L577,22.3l-14.7-0.9l-17.2,16v6.7l-16.4,12
+		l-7.3-1.8L501,65.4l-3.5,13.3l-14,7.9l-8.8-4.4h-7L451.1,90l-2.8,6.1l-3.2,11.6l-12,5.2l-9.1-4.8l-21.9,5.5l-8.6,16.8l-8,2.4
+		l-8.6-4.4l-8.6,1.3l-11.6,4.1l-3.2,1.7l-4.2,8.9l-9.9,2.3l-10.7-8.1l-11,0.1l-12.9,3.4l-6.1,8.4l-12.2,0.1l-5.3-7.9l-8.5-2.4
+		l-15-1.2l-11.2,7.4l-15.1-1.2l-2.7-5.2l-5.4-9.1l-7.3-2.6l-15.3-2.7l-7.1,4l-13.2-5.2l-1.1-5.5l-4.8-12.2l-20.7-7.9l-13.3,5.9
+		l-10.2-5.2l-1.8-3.5L125,83.2l-3.3-2.5l-18.1-8.5l-8.9,2.5L81.2,64.6v-9.5L64.6,40l-5.2-0.7l-12.7,1.2l-7.4-5.9l1.1-9.8l-11.8-18
+		l-11.5-3L8.3,3.7L3.7,11.2z M21.9,16.6l5.1,9.1h-5.5l-2,2l-5.9-8.5l0.6-5.5l1.7-0.5L21.9,16.6z M565.7,39.2l4.5,0.6l-8.3,7l-3.7,2
+		l-2.3-1.3l1.2-6.3l8.4-8.5h0.6L565.7,39.2z M67.3,57.6l-2.6,7.1h-1.1l-9.2-7.6l1.8-0.7l-0.9-7.2l3.5,0.6L67.3,57.6z M519.2,71.7
+		h8.1l-1.2,2L514,80.9h-1.8v-5.2h-3v-2.6l10-4.4V71.7z M116.1,90.7l1.2,2h-6.2l-1.4,3.9l-11-6.3l3.5-0.7v-3.9h4.1L116.1,90.7z
+		 M472.2,97.6v2.9l5,1.7l-12.6,5.1l-1.1-3.9l-4.3-0.7v-3.1l12.5-5.9h2.6L472.2,97.6z M162.7,115l4.8,5.1l-2.4,0.8l-1.8,4.6
+		l-16.5-6.3l3.6-0.7l-1.1-7.1l3-0.7L162.7,115z M422.2,125.3l2.2,2.2l-6.5,2.2h-1.5l0.3-3.5l-9-2.2l9-2.4l5.5-0.9V125.3z
+		 M216.7,140.9l3.5,3.1l-5.3,4.9l-12.7-3.4v-1.8h3.2l-0.8-5.9L216.7,140.9z M375.7,145.3l4.5,2.2l-13.2,3.6l2.7-4.4l-3.9-2.9l7.9-3
+		L375.7,145.3z M323.9,153.8l2.4,5.3l-2.6,1.7l-13-0.1l3.5-2V156l-3.2-2.7l14.7-3.3l1.8-0.2L323.9,153.8z M270.5,152.9l-2.8,1.8
+		l2.5,5.4l-4.6-1.3h-8.9l4.4-3.1v-1.8l-3.5-3.4l11.9,1.4L270.5,152.9z"/>
+</g>
+<g id="prop_1_2_4" transform="translate(1352, 786)">
+	<rect x="124" y="132" class="st0" width="130" height="126"/>
+	<title  style="display:none">Shackle</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="129" height="125" xlink:href="../../_common/prop_sprites//chains_1_2_4_shackle.png"  transform="matrix(1.0079 0 0 1.0079 -7.748586e-03 7.955188e-03)">
+	</image>
+	<path class="st1" d="M62.3,14.9l-10.7,0.9L34.2,27.5l-17,26.2l0.6,5.8L3.2,64.4l16.3,5.7l2.8,2.3V77l3.2,7.7l4.9,6.5L47,105.8
+		l12.2,3.7l8,14.6l1.8,1.1l2.3-9.8l4.4-3.9l15-6.5l7.9-4.9l9-10.5l7.3-16.8l6.8-6.3l7.8-4.1l-12.6-2.6l-3.7-5l-4-16l-5.6-8l-9.9-7.5
+		l-17.5-9.1l-4.9-6.5l-1.8-4.8L62.3,14.9z M78.6,40.4l8.5,3.8L93,51l6.6,11.7v8.2l-7.9,12.2l-8.3,6.4l-8.5,1.9l-12.6-1.3L51,86l-8-8
+		l-4-9.3v-11l4-9.2l7.6-7.5l10.1-4.7L78.6,40.4z"/>
+</g>
+<g id="prop_1_2_5" transform="translate(1542, 504)">
+	<rect x="126" y="107" class="st0" width="128" height="161"/>
+	<title  style="display:none">Ball</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="127" height="160" xlink:href="../../_common/prop_sprites//chains_1_2_5_ball.png"  transform="matrix(1.0069 0 0 1.0069 6.324563e-02 -5.028210e-02)">
+	</image>
+	<path class="st1" d="M50.8,8.1l-3.5,4.3l-2,7.3l-0.7,9.6l-3.9,3.6l-5.9,15l-12,6.6L12.4,64.9L7.3,75.2L4.1,88.7l0.9,25l4.6,12
+		l6.9,10.9L27,146.8l12.7,7.6l18.7,5.8l22.4,0.3l11-2.3l12.6-5.9l10.6-10.9l7.1-14.1l3.6-15.5l1.3-21.7l-3.3-16l-8.6-12.5
+		l-14.8-12.9l-8.9-17.2l-2.2-1.3v-7.6l-2-10.8l-5-4.4L69.1,3.2l-5.3,0.1L50.8,8.1z M77.3,30.2h-21v-11l6.5-4.8l11.3,0.1L77.3,30.2z"
+		/>
+</g>
+<g id="prop_1_3_1" transform="translate(923, 837)">
+	<rect x="104" y="57" class="st0" width="176" height="234"/>
+	<title  style="display:none">Painting Old Man</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="175" height="233" xlink:href="../../_common/prop_sprites//decoration_1_3_1_painting_old_man.png"  transform="matrix(1.0048 0 0 1.0048 7.955431e-02 -5.983378e-02)">
+	</image>
+	<path class="st1" d="M3.3,9v7.9l4,5.1L6.8,225.9l5.6,7.3h155.7l4.9-4.9l0.5-9.6l-2.2-5.6l-0.1-194.8l4.3-4.3l-1.1-7.3l-4.6-3.5H9.1
+		L3.3,9z"/>
+</g>
+<g id="prop_1_3_2" transform="translate(1205, 5)">
+	<rect x="105" y="58" class="st0" width="174" height="232"/>
+	<title  style="display:none">Painting Woman</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="173" height="231" xlink:href="../../_common/prop_sprites//decoration_1_3_2_painting_woman.png"  transform="matrix(1.0049 0 0 1.0049 8.040895e-02 -6.030357e-02)">
+	</image>
+	<path class="st1" d="M3.3,8.1v9.8l3.9,3.5L7.3,210l-1.6,5.3L6,225l5.6,6.2h155.7l4.6-5.2v-10.6l-1.7-3.9l-0.3-193.4l3.3-3.7V7.3
+		l-4.4-4.1H8.1L3.3,8.1z"/>
+</g>
+<g id="prop_1_3_3" transform="translate(1931, 5)">
+	<rect x="80" y="73" class="st0" width="224" height="155"/>
+	<title  style="display:none">Painting Mountains</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="223" height="154" xlink:href="../../_common/prop_sprites//decoration_1_3_3_painting_mountains.png"  transform="matrix(1.0051 0 0 1.0051 -7.238880e-02 0.1047)">
+	</image>
+	<path class="st1" d="M198.2,15.4l-5.9,0.1v-4.3h3.2l-0.7-2.7l-5.2-0.3l-2.7,3.7l-0.3,3.1L39.3,14.4l1.1-2.3l-1.3-6.9l-8.4,0.2
+		l3,1.1l2.4,3.2l0.1,2.5l-5,2.3l-4.9-2.6L21,13l-2-4.8h-1.4l-2.6,5h-2.4L8.1,18l-0.5,3l-2.7,3.3L8,27.5l-3.1,3l-0.4,7.3l2.9,3.4h4.2
+		l-4.2-4.3l2.1-4.7h2.7l0.3,82.6l-2.9,7.7l1.1,4.5l-8,3.3l8,7L10.2,149l5.3,4.2l4.9-4.5l4.4,5.5h2.4l1.9-8h3.1v2l3.8,0.9l3-2.7
+		l156.2-0.1l0.4,2.7l-4.6,1.9l-3.9-3.8l-0.8,3.8l2.4,2.4h8.4l2.4-2.9l3.8,2.3l2.4-2.4h3.1l10.8-9.8l-5.1-3.4l1.7-1.5l-0.2-4.9
+		l-2.7-1.4v-4.5l2.4-2.4h2.6l4.1,4.1l-0.6-7.6l-8.5-0.6l-0.5-84.8l7.5-1.3v-2.9l-5.2-5.2l0.2-6l1.4-6.4l-5.2-5.3l-4.5,4.2l-3.1-6.2
+		L200.3,4L198.2,15.4z"/>
+</g>
+<g id="prop_1_3_4" transform="translate(2036, 320)">
+	<rect x="121" y="66" class="st0" width="153" height="165"/>
+	<title  style="display:none">Painting Still Life</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="152" height="164" xlink:href="../../_common/prop_sprites//decoration_1_3_4_painting_still_life.png"  transform="matrix(1.0063 0 0 1.0063 1.967783e-02 -1.828273e-02)">
+	</image>
+	<path class="st1" d="M3.1,3.1l0.7,160.6l137.5,0.5V3.2L3.1,3.1z"/>
+</g>
+<g id="prop_1_3_5" transform="translate(1389, 5)">
+	<rect x="67" y="80" class="st0" width="247" height="143"/>
+	<title  style="display:none">Painting Ocean</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="246" height="142" xlink:href="../../_common/prop_sprites//decoration_1_3_5_painting_ocean.png"  transform="matrix(1.0048 0 0 1.0048 -9.162376e-02 0.1585)">
+	</image>
+	<path class="st1" d="M3.3,142.3h243V3.2H3.3V142.3z"/>
+</g>
+<g id="prop_1_3_6" transform="translate(2267, 5)">
+	<rect x="135" y="76" class="st0" width="107" height="226"/>
+	<title  style="display:none">Bust</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="106" height="225" xlink:href="../../_common/prop_sprites//decoration_1_3_6_bust.png"  transform="matrix(1.0054 0 0 1.0054 0.2163 -0.1022)">
+	</image>
+	<path class="st1" d="M39.3,6.5l-5.9,6.7l-2.4,8h-2.7L23,32.4l1.5,5.3l-0.3,2.2l4,3.6V48l5,6v4.2h8V60l-8.1,6.4l1.2,3.6L28,72.2
+		H17.5l-6.7,19H8.4L4,101.5l-1,6.8l2.6,14.9l8.5,6.9l1.2,5.1h5.9l2,3.6l3.9,18.6l-1.8,47l-7.8-0.1l-4.4,14.6l0.9,6.8h82l0.5-6
+		L92,205.3l-5.3-0.3l0.3-39.3l4.5-29.3l8.4-0.1l5.3-25.7v-8.8l-4.4-10.5h-2.2l-6.1-13.7l1.9-3.5l-1.7-1.7l-13-4.7l0.6-5.4L76.7,61
+		l-8.5-5.8v-5.4l6.8-3.7l3.5-6.6l5.7-3.3l2.1-3.9l-3.4-6.5l-3.2-2.3l-5.3-1.1l-1.3-6l-5.7-7.8L56.8,3.2h-11L39.3,6.5z"/>
+</g>
+<g id="prop_1_3_7" transform="translate(2267, 241)">
+	<rect x="135" y="76" class="st0" width="107" height="226"/>
+	<title  style="display:none">Gold Man</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="106" height="225" xlink:href="../../_common/prop_sprites//decoration_1_3_7_gold_man.png"  transform="matrix(1.0054 0 0 1.0054 0.2163 -0.1022)">
+	</image>
+	<path class="st1" d="M44.2,12.3L42,16.9l5.3,13.3l-3.1,4.4v7L40,57L26.3,74.3l7,10.1V86L27,91.2H8.4L4,101.5l-1,6.8l2.6,14.9
+		l8.5,6.9l1.2,5.1h5.9l2,3.6l3.4,17.9l-0.8,48.1l-8.3-0.5l-4.4,14.6l0.5,6.9h82.7l1-5.9L92,205.3l-4.8-0.1l0.1-46.1l5.1-22.9h7.6
+		l5.3-25.7v-8.8l-4.4-10.5H79.3l-0.6-11.3L68.2,78l-2.9-4.2v-6L61,54.5l6.4-7.5l8.4,3.9l6.5,6.5l6.9-5.2l6.6-11h1.5v-4.6l-2.4-2.4
+		h-3.3l-3.2,8l-6.6,4l-1.6-4.5L72,33.3l8.3-9.1v-4.1l-3.1-5.9h-5.6l-5.3,4.1v2.6l-3.7,3.3h-3.1L53,16.6l4.5-6.5l3.6,1.2l2.8-5.7
+		L63,3.2l-4.3,0.2L44.2,12.3z M57,86.7l15.6-0.4l1.6,2.4v2.5H39.5l-1.8-14.3l11.1-5.8L57,86.7z"/>
+</g>
+<g id="prop_1_3_8" transform="translate(218, 1084)">
+	<rect x="-44" y="-41" class="st0" width="93" height="88"/>
+	<title  style="display:none">Swords</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="92" height="87" xlink:href="../../_common/prop_sprites//decoration_1_3_8_swords.png"  transform="matrix(1.0112 0 0 1.0112 -1.356798e-02 1.430294e-02)">
+	</image>
+	<path class="st1" d="M3,8.4l1.9,1.9l2.9,0.5l13.3,14.1l-1.7,1.8l-5.3,9.6l2.3,2.9h4.7l-1-2.7l2.9-2.4l1.7,2.6l3.1,20.6L16.6,66
+		l-3.9,15l0.8,0.8l18.2-1.9l5.8-6.4l13,14.3h2.8l7.1-10.5l4.3,2.7l18.7,1.4l-4.2-13.7v-2.4l-8.1-4.5l1.6-4.1V35.4l1.2-1.2l2.7,3.2
+		l-1.7,2l3.8-0.2l2.8-1.8L78,28.3l-3.7-3.4L88,11.5l4.8-1.9l0.3-4.1l-2.5-1.9l-4.4,1.1l-0.7,4L70.2,20.4l-6.8-5.2h-4.5l-4.4,4.2
+		l-4.1-2.2h-4.7L42,21.5l-2-3.8l-3.2-2.5h-4.7l-6.6,5L10.8,7.8L8.9,3.7L4.4,4.2L3,8.4z M40.2,23.2h-3.9v-1.7l0.7-0.6l0.6-0.7H39
+		L40.2,23.2z"/>
+</g>
+<g id="prop_1_3_9" transform="translate(1205, 809)">
+	<rect x="-44" y="-63" class="st0" width="109" height="117"/>
+	<title  style="display:none">Armour</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="108" height="116" xlink:href="../../_common/prop_sprites//decoration_1_3_9_armour.png"  transform="matrix(1.0089 0 0 1.0089 1.846862e-02 -1.724075e-02)">
+	</image>
+	<path class="st1" d="M99.3,66l-0.1-19.3l-1-9.5l-3-3.2l-30.6,1l-2.3,2.1v-7.7l-3-2.4l-7,1.3v-1.8l8.5-1l6.8-3.4L59,14.7l-2.9-5.5
+		h-2.7l-1.2-3.1l-6.2-3l-4.4,0.1L35,10l2.3,9.9l2.7,5.2l-3,1.1l-2.8-2.3l-4.7,2.5L24,36.3l-2.3-0.8L21,30.7l-1.8-1.9v-5.6h2.1
+		l-0.6-4.5l-5.5-0.4l-0.3,4.3l1.6,0.9l-0.3,6.1l-3,2.5l-0.3,9l-8.4,2.1L3.2,47l1.3,5.2h1.8v-3.1l3.5,0.6l0.7,49L9,105.4l7.5,10.8
+		l11.4-12.7L25,48.2h4.3v10h4v5.1l-2-1.2v3l1.8,4.7l1.4,11.4h-3.2v6.6l2.8,3.8l-0.9,2.2l3.1,7.3v4.9l-8,6.9v1.5l13.4-0.3l2.3-4.3
+		l-2.5-3.6l0.9-6h1.7l2.2,8.1l-1.2,3.8l5.1,2.5l8.3,0.4l-0.2-1.9l-6.1-5.1l0.1-6.3l2.8-7.3l-0.9-1.5l4-2.8V84L55,85.2L58.7,65
+		l-2.4-3.8v-3h3.2l-1.2-4.8l3.5-1.1l-2.5,49.2l0.3,10.6l1.7,2.7l28.9-0.9l4.6-3.6l2.8-28l9.7-5.8l0.3-2.1L99.3,66z M33.1,48
+		l-0.9-3.5h-2.9v-2h4L33.1,48z M36.3,87.2h-0.8l-0.9-5h1.7V87.2z M45.3,95.1l-2.8-1l1-3.9l1.8,1.1V95.1z"/>
+</g>
+<g id="prop_1_4_1" transform="translate(5, 1084)">
+	<rect x="-99" y="-48" class="st0" width="203" height="99"/>
+	<title  style="display:none">Drain</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="202" height="98" xlink:href="../../_common/prop_sprites//facade_1_4_1_drain.png"  transform="matrix(1.006 0 0 1.006 -0.1013 0.2083)">
+	</image>
+	<path class="st1" d="M86.8,3.9l-28.5,6.5l-16.1,8l-22,23.3l-11.8,30L4.3,92v5.7l195.1,0.8l2.7-2.3l-5.9-27.3l-11.7-25.3l-11.8-16.8
+		l-8.3-5.7L139.1,8l-22.8-4.8L86.8,3.9z"/>
+</g>
+<g id="prop_1_4_2" transform="translate(1966, 387)">
+	<rect x="-27" y="-23" class="st0" width="57" height="74"/>
+	<title  style="display:none">Plate Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="56" height="73" xlink:href="../../_common/prop_sprites//facade_1_4_2_plate_small.png"  transform="matrix(1.0152 0 0 1.0152 7.324622e-02 -5.634442e-02)">
+	</image>
+	<path class="st1" d="M9.6,12.7L8.3,32.9l-4,8.8L3.9,55l2.4,6.2l5.8,7.1l8.8,5.1l18.2,0.4l7.4-3.1l6.6-7.3l3.4-9.5L56.1,43L52,33.7
+		l0.4-16.1L40.8,4.4l-21-0.1L9.6,12.7z M43.7,59.7l-7,4.5l-10.6,0.6l-7-3.2L15.5,57l-2.2-5.7v-7.7l1.9,2.4L42,46.2l4.4-4.4l0.6,8.4
+		L43.7,59.7z"/>
+</g>
+<g id="prop_1_4_3" transform="translate(1660, 680)">
+	<rect x="-58" y="-47" class="st0" width="117" height="145"/>
+	<title  style="display:none">Plate Large</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="116" height="144" xlink:href="../../_common/prop_sprites//facade_1_4_3_plate_large.png"  transform="matrix(1.0076 0 0 1.0076 5.894186e-02 -4.756083e-02)">
+	</image>
+	<path class="st1" d="M4.2,22.9L4,84.2l10,11.5l0.9,17.2l5.7,11.7L33.3,137l11,5.4l24.9,2l12.4-2.2l11-6.5l8.8-11l5.1-10.4l2.3-14.6
+		l7.3-7.8l-1.1-13l1.6-60.5L91.9,3.2L30.8,3.3L4.2,22.9z M88.3,109.4l-0.7,4.5l-7.6,8.9l-10.3,4.5H52.9l-8.4-3.8l-6.5-5.1l-4.6-6.3
+		l-1.1-4.4L88.3,109.4z"/>
+</g>
+<g id="prop_1_13_1" transform="translate(1529, 675)">
+	<rect x="132" y="124" class="st0" width="121" height="145"/>
+	<title  style="display:none">Balustrade Mid</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="120" height="144" xlink:href="../../_common/prop_sprites//fencing_1_13_1_balustrade_mid.png"  transform="matrix(1.0075 0 0 1.0075 4.916643e-02 -4.104065e-02)">
+	</image>
+	<path class="st1" d="M3.2,5.8l0.6,20.9l19.5,0.2l-4.9,2.4l-4.6,7.4L14,48.2l4.6,5h2.8L20,57.3l3.6,2.7l-2.5,8.2l-5.6,6.5l-3.6,6.2
+		l-0.8,9.2l2.1,9.8l5.6,7.6l-15.2,0.1L2.8,145l117.7,0.4l-0.2-37.4l-13-0.1l4.6-10.3l0.1-12.2l-5.6-10.3l-8.6-10.7l-0.3-4.6l4.9-5.7
+		l-2.2-2.2l5.9-6V38l-3.3-6.9l-6-4.6l23.3,0.2v-23L4.2,3.2L3.2,5.8z M77.1,31.5l-2.8,6.6v8l2,5.1l5,2.3l-1,3.4l3,2.5V65l-7.7,10.5
+		l-2.7,7.3l-0.6,11.5l3.1,7.4l4.1,5.3H46.3l4.1-7.9l1-12.4l-3.1-7.2l-11-15.8v-4.2l4.1-3.7l-0.6-4.1l5.7-7.5L45,34.8l-7.4-8.1
+		l46.1-0.1L77.1,31.5z"/>
+</g>
+<g id="prop_1_13_2" transform="translate(1827, 533)">
+	<rect x="130" y="124" class="st0" width="126" height="145"/>
+	<title  style="display:none">Balustrade Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="125" height="144" xlink:href="../../_common/prop_sprites//fencing_1_13_2_balustrade_side.png"  transform="matrix(1.0074 0 0 1.0074 3.761426e-02 -3.270875e-02)">
+	</image>
+	<path class="st1" d="M9.8,4.7l-0.6,5.6l4.1,1.1v7.9l4.8,4.8l8.2,2.2l-5.8,4.9L18.1,41l2.2,8.3l5.6,3.4l-1,2.8l3.5,2.6L27.1,65
+		l-8.8,11.4l-2.2,10.7l1.4,7.6l3.7,7.4l2,1.2v2.6l-4.7,2.1l-1.3,7l2.1,5.7l2.4,1.5h-9.2l-3.3,3.7v3.1l-3.7,0.9l-1.9,14.3h121.6v-38
+		h-14.9l4.7-8.5l1.3-8.3l-2.1-7.7l-11.9-17.3l-1.2-4.8l5.2-5.6l-1.1-3l5-6v-7.9l-3-5.7l-5.3-4.2h23.3v-24L9.8,4.7z M81.6,30.1
+		L78.3,37v9.9l4.1,5.2l4,1.3l-2.1,2.5l3.2,2.7l-1,7.7l-8.1,10.4l-2.1,5.6v11.4l4.1,9l3.2,3.5h-33l5.7-11.3v-9.8l-2.9-7L42.3,62.9
+		v-5.4l4.1-3.7l-1-3.9l6.1-7l-1-7.8l-5.2-7.9h40.4L81.6,30.1z"/>
+</g>
+<g id="prop_1_13_3" transform="translate(763, 837)">
+	<rect x="115" y="56" class="st0" width="150" height="305"/>
+	<title  style="display:none">Fence Mid</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="149" height="304" xlink:href="../../_common/prop_sprites//fencing_1_13_3_fence_mid.png"  transform="matrix(1.004 0 0 1.004 0.2055 -0.1009)">
+	</image>
+	<path class="st1" d="M63.3,29.2v1.7l4.2,3.8l1.8,4.5l-1.2,6h-2.5l-1.2,6l1.1,3l4.8,1.2v8.9l-6.9,2.9H52.7l-10-5.5l-4.6-6l1-6.8
+		l4.4-4.7l3.8-0.9l2.2,3.2l-1,2.3l-4.4-1.6l-1,2.3l1.3,1.8l6.4-0.1l1.2-5.9l-3.3-4l-6.3-0.2L36,47.4L34.3,56l3.1,6.1l7.5,5.7v2.4H28
+		l-13.2-4l-6.4-3.9L6.9,57l4.1-5.3l8.7,0.6l-6.4-4.2l-5.6,0.6l-2.8,6l-1.7,0.7v38.4l11.2,3.8l3.1-2l3.2-4.8l-4,1.7l-5.5,0.9L8,90.8
+		l1-7.7l5.3-6.9h35.9l-0.1,5.5l-4.9,8v5.6l5,5l7.5,0.1l1.9-1.9l-0.1-3.9l-2.7-1.1l0.5,3.5l-4,1.3l-3.8-3.4L49.3,90l3.5-6.4l5.4-3.4
+		h12.1v50.5l-2.5,3.3l-5.7,2.1l-12.4,0.3l-6.2-3.2l-4.3-5.4l0.6-4.9l3.4-0.9l2.4,2.2l-1.4,3l1.8,0.5l1.3-3.2v-4.3l-7.2-0.3l-4.5,5.4
+		l-0.3,5.5l2.9,3.9l0.1,3.5h-25l-4-6.5l0.5-7l8.4-0.6l-2.4-3.9l-7,0.1l-5.5,4.8v34.6l11.1,2.6l2.9-2.3v-1.6l-4,1l-5-1.2v-7.6
+		l10.5-4.4H43l1.1,4.1l-3.2,8.6l1.4,5.4l6.4,3.9h4.5l3.2-4.9l-0.7-3.4l-2.4-0.8l-0.6,5.6l-4.6,0.7l-2.9-2.4v-6.7l5.3-4.1h13.8
+		l5.9,3.1v46L59,206.4l-12.9-0.8l-9.6-10.4H22l-5.8,5.8v4.7l2.9,5.5H3.3v62.3h67V288l-2.1,8.7l2.5,5l7,3l6.5-0.6l3.2-2.4l0.6-5.3
+		l-3.4-8.5l0.3-13.7l65.2-0.4v-62.3l-9.7,0.8l1.3-3.6l-0.9-8.6l-3.2-5.4l-4.8-1.9l-6.5-0.4l-7.4,3.9l-8.9,9.1l-9.1,4l-6.1-0.2
+		l-9.6-5.3v-50.5l5.3-2.8h23.9l3.3,5.1l-0.9,6.9l-6,1.4l-2.1-2.7l1.4-2.5l-1.8-1l-2.3,2.3l1.9,6l8.1,0.1l5.1-5.3l0.1-6.6l-4-5.1V146
+		h23.6l5.5,5.8l-0.6,6.7l-3.1,0.9l-2.1-2.3l-2.4-0.1l1.5,4.1l4,1.6l4-0.5l2.3-3l-0.3-35l-5.8-3.9l-5.3,0.2l-4.2,3v4.2l3,0.7L137,124
+		h6.7l2.4,2.4l-0.1,6.1l-2.7,6.5h-23l-2.1-4.6l3.6-7.9l-1.8-5.8l-4-2.9l-5.1-0.3l-2.7,2.6v4.2l2.7,1.9l3.3-0.2v-1.3l-3-2.2l2.3-2.3
+		l4.7,2.8v3.7l-4,5.4l-10,4.1l-14.8,0.1l-4.1-1.4V80.2h14.2l5.4,3.2l5.4,10.3V97l-3,2.4l-5-1.2v-3.1l-2,1.2v3.7l7.2,1.3l4.5-3
+		l1.1-10.6l-4.3-4.6l-6.5-4.1v-2.8h33.5l7,4.2l2.5,3.2v8.2l-2.4,2.4h-6.2l-2.4-2.4V95l3,2.5l6.5-1.1l5.5-2.2V55.6l-5.5-5.3l-5.6-2.1
+		h-5.7l-2.5,3l1.3,1.4l2.5-3.4l6.6,1.3l3.3,4.9l-2.9,8.2l-8.7,6.1l-29.3,0.5l12.5-6.1l3-5.8V46.1l-4.7-4.7l-5.1,1l-4.6,4.9l2.1,3.4
+		h4.6l0.8-2.2l-4.3-1.2l0.9-2.6h5.8l2.6,5.6l-2.2,6.7l-6.4,4.9l-11,4.8h-11l-0.6-12l5.1-4.1l0.6-2.9l-5-5.5l8.3-8.4L80.8,3
+		L63.3,29.2z M39,201.1l5.2,11.2h-6.7l-1.3-6.3l-3.1-3.2l-4.8,0.3l-3.6,2l0.6,1.7l5.6-1.6l3.3,2l-1,3.1L22.7,210l-2-3.5l1-5.2l5-3.4
+		l7.8,0.1L39,201.1z M135.3,200.4v6.4l-2.4,2.4h-5.3l-1.2-1.2l2.2-4.7l3.2-0.9l-5.3-0.2l-2.4,3l0.9,6h-10.8l1.3-4.5l3.3-3.8l9-5.8
+		l5,1.3L135.3,200.4z M27.3,266.6l-17.6,0.1v-13.8l4.6-12.8v-13.8h2.9l1.4,2.3h3.8l1.9-3.6v-1.8l-6.4,1.1l-2.7-2.7l1.4-3.1h10.8
+		L27.3,266.6z M53.3,266.6H34l1.3-48.3h18V266.6z M70.3,266.6h-10v-48.3h10V266.6z M93.3,266.6h-8.9v-48.3h8.9V266.6z M119.3,266.6
+		h-17v-48.3h17V266.6z M135.3,221.4l-3,1.1l-4.2-1.8l-0.9,4.5l2.4,1.9l7.1-1.8l4.7,1.1l-0.6,9.1l7.4,11.9v19.2h-23v-48.3h10v3.1
+		L135.3,221.4L135.3,221.4z"/>
+</g>
+<g id="prop_1_13_4" transform="translate(2165, 5)">
+	<rect x="149" y="56" class="st0" width="92" height="305"/>
+	<title  style="display:none">Fence Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="91" height="304" xlink:href="../../_common/prop_sprites//fencing_1_13_4_fence_side.png"  transform="matrix(1.0039 0 0 1.0039 0.3214 -9.662326e-02)">
+	</image>
+	<path class="st1" d="M3,30.4L9.7,36l-0.4,9.3H6.4l-1.2,3.2v4.7l5.7,3l0.2,230.4L9,295.3l1.3,5.1l8.4,3.9H25l3.3-3.7v-7.9l-2.9-3.9
+		l-0.1-15.5h66V212h-9.9l1.1-7.6l-2.3-7.1l-6.1-5.1l-7.5,1l-6.7,2.5l-8.9,9.4l-11.8,4.4l-8.4-2.5l-5.5-3.9v-48.7l5.5-3.6l19-0.8
+		l5.5,1.7l2.9,4.8l0.2,4.9l-2.9,2.6l-4.8-0.7l-1.1-5l-1.8,0.5l0.1,5.5L50,166l6.2,0.6l4-3.4l2.4-8l-5.2-7.3l1-1.7h23.1l5.8,5.8v4.8
+		l-2.4,2.4l-2.3,0.3l-1.3-2.3h-2.1l0.6,3.3l7.4,3.1l1.7-3l2.4-0.4v-35.5l-6.4-4.4l-5.5-0.1l-4.3,3.5l0.2,4.5h1.9l1.4-3.4l5.3-0.4
+		l3.7,3.9l-3.3,9.9H61.5l-2.4-3l3.3-8.3l-1.2-5.7l-4.6-3.7l-6.2,0.7l-2.2,4l2.2,4h4.9v-1.3l-2.5-2.3l2.5-2.3l3.5,3.2l0.6,3.9
+		l-5.7,5.6l-8.8,2.6l-16,0.1l-3.5-1.4V80.2h14.5l6.3,3.9l4.6,8.5l0.6,4.4l-3,2.4l-5-1.2v-2.9l-3,1.1v3.6l8.1,1.4l5-3.3l-0.6-12.4
+		l-10.5-7.8l1.1-1.7h33.2l7.2,4.3l2.5,3.1v8.7l-5,2.8l-4.8-0.8l-0.9-2.5L74.3,93l1.2,3.3l5.1,1.3L91.3,94V55.2h-2.1l-5.1-5.1
+		l-4.3-2.3l-7.6,0.4l-1.1,3.1l1.2,1.3l2.1-2.8l5.9,0.4l3.8,3.9L83,62.9l-9.9,6.7l-29.3,0.5l12.1-5.9l3.4-7.2V46.4l-3.6-4.5l-6-0.3
+		l-4.4,4.9v3.7l5.2,1.3l1.7-2.8L48,47.2l1.7-2.5l3.9-0.7l2.6,3.6v7.1l-3.5,4.2l-6,4l-12.1,4.4l-8.9-0.6l-0.6-12.4l6.1-3.2v-2.6
+		l-4-3.6v-3.1l7.9-8.1L22,3.7L21.5,3L3,30.4z M76.3,200.4v7l-2.4,2.4l-6.6-0.6v-2.6l2.4-2.2l3.2-0.3l-0.1-1.7l-5.2-0.2l-2.3,2.3
+		l-0.6,4.5l1.2,3.1h-10l-0.5-3.5l6.4-6.7l7.1-3.6l5.1,0.2L76.3,200.4z M34.3,266.3h-9v-48h9V266.3z M59.3,266.3h-16v-48h16V266.3z
+		 M76.3,221.4l-2.4,1.8l-2.8-2.7l-2.8,1v5.1l4.3,1l4.9-2.3l4.5,1.2l-0.9,8.6l8.2,12.1v19.1h-23v-48h10
+		C76.3,218.3,76.3,221.4,76.3,221.4z"/>
+</g>
+<g id="prop_1_13_5" transform="translate(1897, 170)">
+	<rect x="121" y="125" class="st0" width="129" height="207"/>
+	<title  style="display:none">Lattice Large</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="128" height="206" xlink:href="../../_common/prop_sprites//fencing_1_13_5_lattice_large.png"  transform="matrix(1.0057 0 0 1.0057 0.1365 -8.499952e-02)">
+	</image>
+	<path class="st1" d="M3.3,18.7l0.7,185l3.7,3.3H127l-0.1-12.1h-6.5l6.9-6.9v-14.3l-6.4-6.6l6.4-6.6v-15.8l-6.4-6.6l6.4-6.6v-15
+		l-7-6.8l7-7.2V87.8l-6.4-6.6l6.4-6.6V58.8l-6.4-6.6l6.4-6.6v-16l-6-5.8l5.6-6.1l0.3-13.5H17.6L3.3,18.7z M48.3,23.8l-7,6.8
+		l-7.1-6.9l5.3-5l4.6-0.3L48.3,23.8z M77.3,23.8l-7,6.8l-7-6.8l4.7-5.1h5.4L77.3,23.8z M106.3,23.8l-7,6.8l-7-6.8l4.6-5h5.4
+		L106.3,23.8z M34.3,38.1l-5.7,5.8l-7.4-7.2l5.7-5.4L34.3,38.1z M62.7,38.2l-6.8,7l-7.1-7.1l7.2-7L62.7,38.2z M92.1,38.5l-6.8,7
+		l-7.4-7.3l7.2-6.9L92.1,38.5z M120.8,38l-7,6.8l-6.6-6.5l7-6.8L120.8,38z M41.8,59.2l-6.7-6.8l6.6-6.1l6.5,6.3L41.8,59.2z M77.6,53
+		l-7,6.8l-7-6.8l6.9-7L77.6,53z M106.4,52.4l-6.8,7l-6.7-6.3l6.9-7.1L106.4,52.4z M27.3,73.6l-7.1-6.9l7.6-6.4l6.5,6.3L27.3,73.6z
+		 M114,73.8l-7.1-6.9l7.3-6.6l6.5,6.6L114,73.8z M62.6,66.7L57,72.1l-6.5-6.7l5.8-4.9L62.6,66.7z M91.7,67.2l-6.5,6.3l-7-6.2l7-6.6
+		L91.7,67.2z M48.9,81.4l-6.8,7l-7-7l6.8-6.7L48.9,81.4z M76.7,81.2l-6.4,6.5l-6.4-6.5l6.7-6.1L76.7,81.2z M106.2,81.4l-6.8,7
+		l-6.9-7l7.1-6.9L106.2,81.4z M27.9,102.2l-7.1-7.1l7-5.8l6.5,6.3L27.9,102.2z M63.1,95.6l-6.8,7l-6.6-6.4l6.7-6.9L63.1,95.6z
+		 M84.8,102.2l-6.7-6.7l6.6-6.2l6.5,6.3L84.8,102.2z M112.8,102.2l-6.7-6.5l7.6-6.4l5.9,5.9L112.8,102.2z M41.8,116.2l-6.6-6.4
+		l6.4-6.6l6.6,6.4L41.8,116.2z M77.5,110.1l-7,6.8l-7-6.8l7.2-6.8L77.5,110.1z M98.8,116.2l-6.6-6.4l6.4-6.6l6.6,6.4L98.8,116.2z
+		 M20.3,110.1l-2,1.2v-3.1L20.3,110.1z M20.3,81.2l-2,1.2v-3.1L20.3,81.2z M20.3,52.3l-2,1.2v-3.1L20.3,52.3z M20.3,23.7l-2,1.2
+		v-3.1L20.3,23.7z M34.3,123.8l-7,6.8l-6.4-6.4l5.8-6h2.2L34.3,123.8z M62.7,124.4l-6.4,6.5l-6.4-6.5l6.5-6.8L62.7,124.4z
+		 M91.8,124.3l-7,6.9l-6.6-6.5l6.8-6.9L91.8,124.3z M119.7,124.2l-6.4,6.5l-6.4-6.5l5.8-6h1.2L119.7,124.2z M48.7,138.8l-6.8,7l-7-7
+		l7-6.7L48.7,138.8z M77,138.6l-6.4,6.5l-6.4-6.5l6.2-6.4L77,138.6z M106.2,138.9l-6.8,7l-7.1-6.9l7.1-7L106.2,138.9z M27.7,160.1
+		l-7.1-7.1l7.2-6.6l6.5,6.3L27.7,160.1z M62.9,152.8l-6.8,7l-6.6-6.4l6.9-6.8L62.9,152.8z M84.3,158.8l-5.8-5.8l6.3-6.6l6,5.9
+		L84.3,158.8z M113.7,160.2l-7.1-6.9l7.2-7l7.1,6.9L113.7,160.2z M41.8,173.9l-6.6-6.4l6.4-6.6l6.6,6.4L41.8,173.9z M77.5,167.3
+		l-6.7,6.9l-7-6.8l6.9-6.9L77.5,167.3z M99.5,174l-7-6.8l6.8-6.7l7.1,7L99.5,174z M34.3,181l-5.8,6.1l-6.1-6.2l5.3-5.9L34.3,181z
+		 M63,181.6l-6.9,7.1l-6.5-6.8l6.9-6.8L63,181.6z M92.2,181.8l-6.8,7l-7.3-6.4l7.1-7.4L92.2,181.8z M120,181.6l-6.8,6.1l-6.4-6.4
+		l6.7-6.4L120,181.6z M46.5,195H37l5-5.6L46.5,195z M75.3,194.9h-9.7l5-5.5L75.3,194.9z M104.6,194.9H93.9l5.5-6L104.6,194.9z
+		 M21.4,194.9h-3.2l0.1-3.6L21.4,194.9z M20.5,167.5l-2.4,2.3l0.2-4.3L20.5,167.5z M20.5,138.6l-2.4,2.3l0.2-4.3L20.5,138.6z"/>
+</g>
+<g id="prop_1_13_6" transform="translate(1675, 1052)">
+	<rect x="-24" y="-34" class="st0" width="49" height="105"/>
+	<title  style="display:none">Lattice Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="48" height="104" xlink:href="../../_common/prop_sprites//fencing_1_13_6_lattice_small.png"  transform="matrix(1.0116 0 0 1.0116 0.2217 -0.1029)">
+	</image>
+	<path class="st1" d="M3.8,9.9l4.5,3.6l-3.5,3.9V24l3.3,3.7l-3.3,3.7v8.1L7.9,42l-3.1,3.4V53l3.5,3.9l-3.5,2.5V68l3.1,3.4l-3.1,2.5
+		v8.6L7.9,85l-3.1,3.4v7.9l2.4,2.4H3.8v6h44v-6h-2.4l2.4-2.4v-7.7l-3.1-3.2l3.1-3.4v-8.1l-3.1-2.5l3.1-3.4v-9.1l-3.1-2.5l3.1-3.4
+		v-8.1l-3.1-2.5l3.1-3.4v-7.6l-3.3-3.7l3.3-3.7v-6.6l-3.3-3.7l3.3-3.7V3.7h-44C3.8,3.7,3.8,9.9,3.8,9.9z M19,16.8l-2.5-3.1l2.5-3.1
+		l3.1,3.1L19,16.8z M33,16.8l-2.5-3.1l2.5-3.1l3.1,3.1L33,16.8z M12.1,23.8l-2.5-3.1l2.5-3.1l3.1,3.1L12.1,23.8z M26,23.8l-2.5-3.1
+		l2.5-3.1l3.1,3.1L26,23.8z M40,23.8l-2.5-3.1l2.8-3.2l3.1,3.1L40,23.8z M19.4,30.7l-2.9-2.9l2.6-3.2l3.8,3.5L19.4,30.7z M33.3,30.7
+		l-2.8-2.9l3-3.7l3.2,3.2L33.3,30.7z M11.9,38l-3.2-2.6l3.5-3.8l3,3.1L11.9,38z M26,37.8l-2.5-3.1l2.5-3.1l3.1,3.1L26,37.8z
+		 M40.8,38.1l-3.3-3.3l2.6-3.2l3.8,3.5L40.8,38.1z M22.5,41.9l-3.8,2.9l-2.9-2.4l3.1-3.6L22.5,41.9z M36.8,42.4L33.7,45l-3.2-3.1
+		l1.3-2.2h2.7L36.8,42.4z M14.8,49.4l-3.6,2.9l-2.4-2.9l2.9-3.3L14.8,49.4z M29.8,49.4l-3.7,3.3l-3.3-3.6l3.4-3.2L29.8,49.4z
+		 M43.8,49.4l-3,2.5l-3-2.5l2.2-2.7h1.5L43.8,49.4z M22,56.7l-2.5,3.1l-3.7-3.4l3-3.6L22,56.7z M36.8,56.4l-3.7,3.4l-2.6-3.1
+		l2.7-3.9L36.8,56.4z M15.1,63.8l-3.3,3.3l-3.3-3.3l3.1-3.7L15.1,63.8z M26,66.8l-2.5-3.1l2.5-3.1l3.1,3.1L26,66.8z M44,63.8
+		l-3.3,3.3l-3.2-3.3l3.2-4L44,63.8z M18.9,74l-3.2-2.6l3.5-3.8l3,3.1L18.9,74z M33.8,74.1l-3.3-3.3l2.6-3.2l3.8,3.5L33.8,74.1z
+		 M26.5,81.7l-3.7-3.3l3-3.6l3.7,3.3L26.5,81.7z M14.8,78.4l-3,2.5l-3-2.5l2.9-3.5L14.8,78.4z M43.8,78.4l-3,2.5l-3-2.5l2.2-2.7h1.5
+		L43.8,78.4z M22,85.7l-2.5,3.1l-3.7-3.4l3.1-3.2L22,85.7z M37,85.4l-3.7,3.4l-2.9-3.6l3-3.1L37,85.4z M14.9,92.7l-2.5,3.1l-3.7-3.4
+		l3.2-3.2L14.9,92.7z M26,95.8l-2.5-3.1l2.5-3.1l3.1,3.1L26,95.8z M43.8,92.4l-3.3,3.9l-3-3.6l2.8-3.6L43.8,92.4z M20.9,98.7h-3.7
+		l1.7-2.5L20.9,98.7z M35.8,98.7H31l1.9-2.5L35.8,98.7z"/>
+</g>
+<g id="prop_1_5_1" transform="translate(1424, 1054)">
+	<rect x="-35" y="-43" class="st0" width="55" height="113"/>
+	<title  style="display:none">Shrub Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="54" height="112" xlink:href="../../_common/prop_sprites//foliage_1_5_1_shrub_side.png"  transform="matrix(1.0107 0 0 1.0107 0.2099 -0.1017)">
+	</image>
+	<path class="st1" d="M46,10.1l-6.3,0.6L34,6.2h-4l0.9,5l-2.5-2.1l-2.1,3.6l-0.1-5.5h-1.7l-3.6,4l-4.2-3.8l-0.8,1.8l2.4,5.3
+		l-4.4,4.6L7.3,29.7L6,36.4L8.6,38L3,40.9l7.2,5.5L3,57.5l3.9-1l0.3,5.9l5.8,2.2l-1,16l3,8l-3.3,5l6.6,2.4l-0.8,5.7h3.1l3.6,6l2.6-1
+		l8.4,6.1l1.1-4.6l1.4,3.7l6.2-5.2h1.6l1.3,4.5l2.9-5.4l4-1.2l0.7-94.1L48,3.2h-3.6L46,10.1z"/>
+</g>
+<g id="prop_1_5_2" transform="translate(2311, 662)">
+	<rect x="-41" y="-50" class="st0" width="82" height="117"/>
+	<title  style="display:none">Shrub Mid</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="81" height="116" xlink:href="../../_common/prop_sprites//foliage_1_5_2_shrub_mid.png"  transform="matrix(1.0098 0 0 1.0098 0.1014 -7.094299e-02)">
+	</image>
+	<path class="st1" d="M7.3,6.7l5,8.7l-7-1.3l-1.8,1.1l5.8,6.2v1.8H5.9l3.3,3.7v3.3l-2.5,0.1l3.5,2.6l-3,2.5v2.8h2.3L8.4,97.7
+		l-3.5,10.8l6.7,4.3l0.8-3.7l6.3,6.3l2.4-0.2l-2.1-4l1.2-3.3l4.1,3.7l2.9-4.3l4,0.3v5.4l1.3,3.5l5.4-6.7l5.6,4.5l1.7-2.6v-3.6
+		l3.7,1.1l-1-5.3l9.2,7.8l1.1-2.8l3.7,7.5l2.6-6.2l1.8-1.2l2.5,3.3l2.8-5.1l3.8,1.2l1.4-2.2l4.6,4.3l-3.3-21.1V30.6l3.2-7.4
+		l-3.1,1.1v-4.8l-6.4-8.8l-1.2,5l-1.6-6l-3.6,4.5l-1.3-3.3l-2.8,3.8l-0.3,4l-1-4l-1.9-2.3l-5,5L50,16.2h-6.8v-4.1l2.1-3.9h-4.2
+		l-4.4,2.2l-5.1,4.8l-5.8-6H24l0.8,5.9L20,13.9l-1.5,2.5l-4.3-9.1L9.6,3.1L7.3,3.2V6.7z"/>
+</g>
+<g id="prop_1_5_3" transform="translate(684, 567)">
+	<rect x="-13" y="-31" class="st0" width="29" height="86"/>
+	<title  style="display:none">Vine Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="28" height="85" xlink:href="../../_common/prop_sprites//foliage_1_5_3_vine_small.png"  transform="matrix(1.0141 0 0 1.0141 0.3021 -0.1007)">
+	</image>
+	<path class="st1" d="M11.3,4.5v1.6l2.5,2.7l2.4,4.2l-0.6,0.5l-0.5,0.6l-2.9-2.9h-3l2,3.7l3.2,2.7l2.9,5.5v4l-3.4,7.1h-1.4l-2.4-3
+		h-4l1.4,5.5l2.8,1.6v4.1l4,5.1l-3.4,5.2l-2.2,2l-3.9,2.2l-0.7,4.8L8,58.2L17.3,70v2.8l-2.9,3.9l-2.5-2.5H8.3v2l4,3.4L9.4,84
+		l1.2,1.2h3.5l-1-3.8l10.7-8.1l2.5-4.1h-4.8l-0.9,2.5l-3.2-6.2l1.1-4.3h-2.1L15,63.4l-4-6.3l5.3-5.5v-3.4H20l3.6-4h-6.2L16,46.3
+		l-2.7-3.6V40l6.5-10.7l5.2-0.1l3.7-4.1l-2.9-1.9l-5.9,0.7l-3.4-6.6l0.1-8.9l-4-5.1L11.3,4.5z"/>
+</g>
+<g id="prop_1_5_4" transform="translate(824, 1152)">
+	<rect x="-10" y="-18" class="st0" width="20" height="42"/>
+	<title  style="display:none">Vine Small Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="19" height="41" xlink:href="../../_common/prop_sprites//foliage_1_5_4_vine_small_small.png"  transform="matrix(1.0294 0 0 1.0294 0.2203 -0.1035)">
+	</image>
+	<path class="st1" d="M10,4.7l0.1,4.5L5.2,8.6l1.1,2.6h2.8v7H3.2L5.6,21l3.7-0.5l4.1,3.4v1.9l-3.2,4.5l-2.9-4.1h-3V28l3,2.5
+		l-1.7,2.9l1.2,2.8l3.5,0.9l1.2,2.8l-2,2.5l3-0.4l1.9-2.5l-0.1-4L12,34.4l0.1-1.9l3.3-3.6v-2.7l4-4v-4h-1.9l-3,4.4l-3.8-3.4l1.3-2.3
+		l-0.3-5.4l0.7-5.7l1.1-2.6l-1.7-0.3L10,4.7z"/>
+</g>
+<g id="prop_1_5_5" transform="translate(1737, 935)">
+	<rect x="-13" y="-15" class="st0" width="26" height="32"/>
+	<title  style="display:none">Vine Small Curl</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="25" height="31" xlink:href="../../_common/prop_sprites//foliage_1_5_5_vine_small_curl.png"  transform="matrix(1.0353 0 0 1.0353 5.855168e-02 -4.743629e-02)">
+	</image>
+	<path class="st1" d="M15.3,4.5v3.7l-4-0.2l-2,0.9L7.5,7.6L2.8,7.1l1.3,3.3l3.2,0.1l-0.6,3.8l1.1,2L7,21.7l2.8-3.3l-0.9-7l1.6-1
+		l4.3,0.3l0.7,2l-0.4,1.6l-4-1.2v2.1h2v3l4.3,0.9l0.7,1L13.8,22l-1.6,4.2l0.3,4.4l4.1,1.1l-1.2-4.4l0.7-2.8l3.4-2.3l4-0.2l3.6-3.5
+		l-4.8-0.1l-2.2,1.4l-0.3-2.3L16.3,16l2.3-2.8l2.7,0.2l2.5-1.6l-0.9-2.3l-4.8,1.8l-0.6-2.4l1.3-0.8l-0.1-4l-2.2-0.8L15.3,4.5z"/>
+</g>
+<g id="prop_1_5_6" transform="translate(1901, 966)">
+	<rect x="-16" y="-46" class="st0" width="34" height="116"/>
+	<title  style="display:none">Vine Thick Light</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="33" height="115" xlink:href="../../_common/prop_sprites//foliage_1_5_6_vine_thick_light.png"  transform="matrix(1.0104 0 0 1.0104 0.3291 -9.549706e-02)">
+	</image>
+	<path class="st1" d="M21.3,6.9l-0.5,3.4l-4.3-4.4l-5.4-1.3l-0.4,4.8l1.8,3l4.6,2.1l-2.3,11.2L7.5,24l-0.2,2.8l3,4.3l4.1,0.6l3,7.4
+		L10.5,39L6,41.4l6.1,5.7l5.1,0.9L9.1,65.7L4,70.1l-0.7,9.2l1.5,4.2l1.6,0.3l4-9.3l4.9,6.7l-5.1,6.1l0.2,5.7l4.8-1.3l3.8-4.1
+		l0.6,1.7l-4.2,2.8l-4.1,7.9l2.8,0.4l5.1-3.2l0.8,4.3l-1.3,3.8l0.4,6.2l3.2,5.1l2.4-9.1l-0.5-11.3l3.7,1.9l5.5,0.3l0.3-3.4l-4.4-4.3
+		l-3.8-0.3l-9.6-21.5L20,58.3l2.5,3.7l5.6,0.7l-0.7-4l-4.6-4.8l3.9-8l-6.3-15.2l-0.1-4.1l5.8,1.2l3.2-3.1l0.3-3.1l-7.8,0.1l1.8-9.8
+		l3.7-1.1l2.4-5.3l-0.3-2.3h-4.7L21.3,6.9z"/>
+</g>
+<g id="prop_1_5_7" transform="translate(2347, 477)">
+	<rect x="-12" y="-27" class="st0" width="47" height="44"/>
+	<title  style="display:none">Root Light</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="46" height="43" xlink:href="../../_common/prop_sprites//foliage_1_5_7_root_light.png"  transform="matrix(1.0224 0 0 1.0224 -1.627378e-02 1.735587e-02)">
+	</image>
+	<path class="st1" d="M37.4,11.8l-7.9,7.9l-2.3,4.5H15.6l1.1-2.3v-7.2l-1.6-0.8l-4.4,3.8l0.4,5.3l-5.9,6.3L3,36.1l3.1,6l2.3,1.4
+		l2-3.7l5.9-6.2l11.2-1.5l1.1,1.8l4.6,2.9h6.1l0.7-2l-5.4-5.3l-2.3-0.2L39.5,15l7.1-7.5l-1.7-0.9l-4.8,2.8l-1.6-3.7l-4-2.7l0.3,5.5
+		L37.4,11.8z"/>
+</g>
+<g id="prop_1_5_8" transform="translate(1945, 965)">
+	<rect x="-21" y="-29" class="st0" width="55" height="71"/>
+	<title  style="display:none">Root Light Curl</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="54" height="70" xlink:href="../../_common/prop_sprites//foliage_1_5_8_root_light_curl.png"  transform="matrix(1.0159 0 0 1.0159 7.159221e-02 -5.538380e-02)">
+	</image>
+	<path class="st1" d="M20.6,6.7l-7.1,15.8l2.3,1.8l0.5,3.8l3.2-0.3l-0.1-3.7l6.5-0.1l4.3,3.6l2.4,3.9L26,47.2h-0.8L16.8,43l-0.3-0.3
+		l-0.3-0.2l2.5-5.4l6.6,1.2v-2.1l-1.7-0.5l2.7-3.9l-0.4-3.2l-3-0.1l-3,2.5l-0.6,3.3l-3.4,0.1l-5.4,8.8l-3.4-3H3.3L2.5,43l5.8,3.5
+		l9.3,10.8l-1.8,4.1l-0.1,6.9l1.6,3.4l4.3-4.8l2.6-6.6L43,44.4l5.7,1.6l6.7-0.3l-5.7-6.5h-3.5l4.7-6.1v-5.3l-7.4,4.8l-2.3-16.3
+		L29,15.1l-4-1.3l4.4-8.5l0.4-3L20.6,6.7z"/>
+</g>
+<g id="prop_1_5_9" transform="translate(2347, 599)">
+	<rect x="-10" y="-36" class="st0" width="29" height="50"/>
+	<title  style="display:none">Flower Purple</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="28" height="49" xlink:href="../../_common/prop_sprites//foliage_1_5_9_flower_purple.png"  transform="matrix(1.0242 0 0 1.0242 0.1612 -9.286802e-02)">
+	</image>
+	<path class="st1" d="M16.8,5.7L10.6,5l-5,2.3l2.6,1.5l-4,3.7v1.7h5.6l2.3-2.3l3.1,1.6L12,22.2H8l2.1,2.6l-3.2,12L6.2,21.7l-1.7,3
+		l-1.2,9l1.5,8.6l-2,0.8L5,47.3l7.8,2.7l8.6-3.9l3.8-6.1L25,35.8l-5.6,5.4l-6.2,1.4l0.3-2.3l8-10.5l6-11.3L25.3,18L12.8,34l-0.1-5.9
+		L11.3,29l4.1-9.7l2.8,1.1l3.6-2.1l-2.5-0.8l-3.1,0.7l1.7-4.1l3.3,1.3l4.4,0.1l1.8-2.3L22.1,11l7-6.4l-1-1.5L16.8,5.7z"/>
+</g>
+<g id="prop_1_5_10" transform="translate(1437, 922)">
+	<rect x="-19" y="-41" class="st0" width="38" height="55"/>
+	<title  style="display:none">Flower Blue</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="37" height="54" xlink:href="../../_common/prop_sprites//foliage_1_5_10_flower_blue.png"  transform="matrix(1.0212 0 0 1.0212 0.107 -7.364400e-02)">
+	</image>
+	<path class="st1" d="M9.9,8.3l2.5,3.5L8.2,11v2l-2,3.5L9,16.4l3.1,1.9L11,26.4l6.5-3.3l0.3,0.3l0.2,0.3l4,9.6v5.4l-3.1-9l-2.7,13
+		l1.2,3.8L4.7,44.6l-1,0.8l2.4,4.2l6.3,2.8l7.2-0.1l0.3,2.7l13.4-3.3l4.9-3.6l-7.5-0.7l2.2-4.4l0.1-6.8h-2.1l-7.3,7.9v-1.9l1.2-5.6
+		v-5.4l-4.6-10h5.1v-1l-2.5-4.1l3.5-2.6v-3.3L24,9.9l1.3-4.8V4.2h-2.4l-5.1,5.2l-1.2-3.6l-3.5-2.6H9.3L9.9,8.3z"/>
+</g>
+<g id="prop_1_5_11" transform="translate(2347, 531)">
+	<rect x="-14" y="-42" class="st0" width="28" height="58"/>
+	<title  style="display:none">Flower Red</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="27" height="57" xlink:href="../../_common/prop_sprites//foliage_1_5_11_flower_red.png"  transform="matrix(1.0211 0 0 1.0211 0.2146 -0.1026)">
+	</image>
+	<path class="st1" d="M10.4,4.1l1.1,8.6l4.3,5.7l-1.5,4.1l0.3,11.7l1.9,12.1l-7.8-5.2l-1.2,1.5l2.8,5.1l-7.7,0.1L14.4,58h4.9l0.6-3
+		l7.2-10.9L27,39.5l-8,8.2l-0.4-11.4l-1.4-4.1h4.9l6.1-3.6l-0.4-1.8L22.1,26l-4.9,1.9l0.2-4.6l1.8-5.4H23l3.4-4.4V4.9l-3,2.7l-2-2.7
+		L20,6.6l-0.7-2.8l-2.4,0.6l-1,2.8l-3.6-4.4L10.4,4.1z"/>
+</g>
+<g id="prop_1_5_12" transform="translate(2153, 576)">
+	<rect x="-18" y="-49" class="st0" width="29" height="64"/>
+	<title  style="display:none">Grass Medium</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="28" height="63" xlink:href="../../_common/prop_sprites//foliage_1_5_12_grass_medium.png"  transform="matrix(1.0192 0 0 1.0192 0.2316 -0.1039)">
+	</image>
+	<path class="st1" d="M5.9,7.1l8,41.9L3.7,28.8l0.7,5.9l2.8,15.7l8.3,11.4l6.8,2.3l5.9-8.6l-0.4-3.3l-3.2,3.1l2.5-9l0.4-13.4l-2,1.2
+		L22,46.7l-2.3-10l-0.8,5.2l-4.3-19.4L7.1,2.8L5.9,7.1z"/>
+</g>
+<g id="prop_1_5_13" transform="translate(1127, 1020)">
+	<rect x="-19" y="-73" class="st0" width="62" height="86"/>
+	<title  style="display:none">Grass Big</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="61" height="85" xlink:href="../../_common/prop_sprites//foliage_1_5_13_grass_big.png"  transform="matrix(1.0133 0 0 1.0133 9.311238e-02 -6.701493e-02)">
+	</image>
+	<path class="st1" d="M19.5,20.8l-4.8,23.8l-4.2-13.3l-1.4,4.4l-0.2,5l-4.5-16L3,40.3l1.3,10.1l7,23.3l7.4,12.7L32.3,84l29.5-14
+		l-19.1-0.7l-7.2,3.3l6.4-8.6L41,63.1l-11.6,6.6l25.1-27.6l-2.3,0.2L33,50.6l9.3-24.2L41,26l-8.8,7.7l-7,13l2.5-42.5h-0.6L19.5,20.8
+		z"/>
+</g>
+<g id="prop_1_5_14" transform="translate(2153, 495)">
+	<rect x="-19" y="-54" class="st0" width="32" height="71"/>
+	<title  style="display:none">Grass Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="31" height="70" xlink:href="../../_common/prop_sprites//foliage_1_5_14_grass_small.png"  transform="matrix(1.0173 0 0 1.0173 0.2326 -0.1039)">
+	</image>
+	<path class="st1" d="M25.3,8.1l-6,20.6L19.8,59l-3-2.6L3.7,50.1l-0.8,1.2L6.1,56l8.9,7l5.4,8.3l2.2,0.3l3-4.8l6-18.8L25,54.6
+		l0.3-2.9L28.7,36L27.4,3.9l-2-0.2L25.3,8.1z"/>
+</g>
+<g id="prop_1_5_15" transform="translate(684, 676)">
+	<rect x="-27" y="-21" class="st0" width="51" height="44"/>
+	<title  style="display:none">Moss 1</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="50" height="43" xlink:href="../../_common/prop_sprites//foliage_1_5_15_moss_1.png"  transform="matrix(1.0214 0 0 1.0214 -3.463736e-02 4.017149e-02)">
+	</image>
+	<path class="st1" d="M27.3,9.1l-4.5,0.6l-0.6,4.5l-5.3,4.1l-6.1-0.5l-6.5,3.9v2.4l4,2.2v4.9h2l1.3,5.5l3-5.7l0.7-4.9l2.9-2.9H30
+		l1.3,5.1l4.3,4l1.2,3.3l5.1,2v6h2v-5.8l4-1l2.1-5.7l-1.5-4.9h1.7v-3.9l-3-3v-4.8L43.3,11l0.4-2.3l-5.5,0.1V6L34,7.1l-1-3.9h-2.4
+		L27.3,9.1z"/>
+</g>
+<g id="prop_1_5_16" transform="translate(1882, 1093)">
+	<rect x="-35" y="-19" class="st0" width="70" height="62"/>
+	<title  style="display:none">Moss 2</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="69" height="61" xlink:href="../../_common/prop_sprites//foliage_1_5_16_moss_2.png"  transform="matrix(1.0153 0 0 1.0153 -2.878191e-02 3.248576e-02)">
+	</image>
+	<path class="st1" d="M34,7.2h-2.8l-2,5H27l1.2,5h-2.9L24,15.1l-10.1,1.1l-3.4,3H5.3l-1,1.6l11.4,2.4l2,4.4l7.2,1.7v5.9h-1.7v6h-3
+		v2.9l-4.3,2.3l7.8,2.8H27l3.2,5h4.6l2.4,2.4l0.1,5.1l3.8-9l0.6-5l6.9-3l5.5-14.3l7.7-0.8l0.6-6.4l3.1-1.7l-2.3-1.4L59,20h-4.2
+		l-2.6-2.7v-2.9l-6.1-1.2l0.4-2.5L45,7.2l-1.6-0.1l-2.5-4l-2.2,0.2L34,7.2z"/>
+</g>
+<g id="prop_1_5_17" transform="translate(1815, 1023)">
+	<rect x="-37" y="-28" class="st0" width="76" height="60"/>
+	<title  style="display:none">Moss 3</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="75" height="59" xlink:href="../../_common/prop_sprites//foliage_1_5_17_moss_3.png"  transform="matrix(1.0147 0 0 1.0147 -5.189100e-02 6.580536e-02)">
+	</image>
+	<path class="st1" d="M44.3,4.3l-2.1,9.9l-4-4h-1.5l-2-4.5l-6-0.2l-3-1.3l-8,0.7l-5,2.2L22,7.2l3.2,1.2v2.8l4.9,2.3l0.6,7.2l6,3
+		L31,24.4l-2.2-2.2h-5.7l-3.6,1.9l-3.8-2.8l-1.3-0.1h-1.3l1.2,4l-5.6,0.1l-4.8,4l1.2,1.1l9.2,1.1l-1.1,3.4l3.7,4.7l4.8-5.2l5.3-1.2
+		l2.4,3H33l-1.9,7.2l2.1,6.1l0.1,9.2l3.2-6L37,35.1l2.4-2.9h4.7l2.3,4.2l2.2-2.2H52l1.5,3.5L53,52.2h1.1l3.1-5.9V33.2l15.3-1.9
+		l1-1.1L72.4,29l-7.6-0.6L64,25.9l-6.7-7.1V17l-6.5,0.9l-5.5-6.2V7.3l6.4-0.6l-4.9-3.2L44.3,4.3z"/>
+</g>
+<g id="prop_1_5_18" transform="translate(759, 1152)">
+	<rect x="-29" y="-20" class="st0" width="55" height="26"/>
+	<title  style="display:none">Moss Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="54" height="25" xlink:href="../../_common/prop_sprites//foliage_1_5_18_moss_small.png"  transform="matrix(1.0223 0 0 1.0223 -0.1033 0.2207)">
+	</image>
+	<path class="st1" d="M30.1,9.6L28,17l-6.6-2l-6.7,3.9L3.6,22.6l8.6,0.9l12.6,0.2l2.7,2.3l15.8-2.2v-2l11.3-0.1l-6.1-2.3v-2.1
+		l-9.2,1.9l-4-1.9L31.8,4l-1.7-0.4l0.1,5.1L30.1,9.6z"/>
+</g>
+<g id="prop_1_5_19" transform="translate(5, 363)">
+	<rect x="24" y="18" class="st0" width="300" height="367"/>
+	<title  style="display:none">Trunk 1</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="299" height="366" xlink:href="../../_common/prop_sprites//foliage_1_5_19_trunk_1.png"  transform="matrix(1.003 0 0 1.003 5.488748e-02 -4.489383e-02)">
+	</image>
+	<path class="st1" d="M100.6,11.2l-2.5-3h-3.8v1.1l2.8,5.4l6.4,6l3,5.7L103,39.3l5.2,11.4l6.2,55.3l-15.6,14.7l-3.4,6.5h-5.6l-41-13
+		l-3.5-4.5l-6.6-13l0.8-4.2l-1.1-5l3-10.6l-0.6-1.8l-5.2,4L31.8,78l-8.5-11.9l-6-1.2v-3.7h-1.8l-0.8,2.3l-5.4-1.3l-5.5-8.4L3,57.3
+		l7.7,15.4l8.7-0.6l2.8,2.4l11.4,20.6l-2.4,6.2L17,93.1l-0.5,0.4L16.1,94l15.1,12.9l13.3,14.4l5.1,2l36.7,22.3l38,17l3.6,7.1
+		l11.2,34l2.1,13l-4,15.6l-6.2,0.5l-3.8,3l-2.1,11.7l-5.6,14.4l-10.3,13.6v5.2l3.1,11.2l-10.4,14.3l-12.2,12.7l-13,6.1l-3.3,7.6
+		l-2.6,2.2l-4.7,1.7l-21.9,13.8l18.4,4.7l-6.4,7.2l23.9,4.4l66.6-13l34.9,0.9l50.1-3.3l19.2,2.8l4.5-1.9l-29.1-20.4l-17-34l8.8-74.4
+		l-1.3-15.8l19-16.8l12.5-16.7v-7.6l19.1-16.3l11.5,3.9l13.4-1.5l6.7-7.6l-1.3-1.2l-6.4,4.7l-10.5-0.9l-16-5.2l-7.8,0.4l-4.8,4.8
+		l-8.4,1.8h-20.3l-1.4-6.5l-7.3-7.5v-7.8l14.8-27.5l9.6-13.9l10.6-6.5l16-2.4l6-2.7l11.9-14.3l5.7-4.1l-0.9-1l-13.7,10.5L263.5,71
+		l-15.6,2.3l-12,0.9l-8.2,7.6l-16,24L193,127.3l-10.8-12.5l-5.8-11.1l3.9-30L178,57.4l9.9-10l10.6-27.7l1-8.5h-2.4l-8.9,19.2v4.4
+		l-18.5,16l1.4,17.6L164,80.1l-5.7,16.2l-5.2,8.9l-5.8,3h-2.6l-4.5-10.5v-2l-5.1-9.6l5.1-11.1v-1.8h-1.8l-6.4,5.4l-3.8-4.9l-8.8-18
+		l-4.2-25.3v-5.1l-9.3-8.8l0.1-6.8l1.4-5.5h-2.1L100.6,11.2z"/>
+</g>
+<g id="prop_1_5_20" transform="translate(5, 740)">
+	<rect x="52" y="49" class="st0" width="309" height="334"/>
+	<title  style="display:none">Trunk 2</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="308" height="333" xlink:href="../../_common/prop_sprites//foliage_1_5_20_trunk_2.png"  transform="matrix(1.0031 0 0 1.0031 2.022943e-02 -1.875336e-02)">
+	</image>
+	<path class="st1" d="M138.3,3.5l1.9,9.9l-2,6.3l-7.8,7.4v3.7l-5,16.6l9.9,25.1L117.8,97l-10.3,2.3L68.8,85.2l-6.1-3.7l-3.8-16.4
+		l-15.4-11l-2.6,1.8L54,71.1l3.3,29.4l2.5,3l16.6,7.5l-3.5,7.1l1.5,1.5l5.7-3.4h5l13.2,11.6l-31.5,27l-13.1-10.9l-6.9-1.1l-14.6,2.1
+		L11.1,123l-1.5,3L32,160.3l8.6-5.1H44l24.1,20.9l21.6-10.6l10.7,20.5l6.9,27.4v4.3l-2,7l-7.6,4.3l-10.1,8l-19.1,42.7l-8.9,3.9
+		l-13.9,2.8l-2.6,7.9l-4.3,3.2l-12.2,3.8L3.4,312l7.3,3.1l49,8.5l-4.6,4.6l10,4.3l40.6-0.2l38-9.2l30.5,1.5l20-2.6v-4.5l-29.9-21.8
+		l-0.4-0.4l8.5-26.3l-1.3-6.6L150,225.9l-2.8-7.8l3.1-13.7l7.4-2.1h13l24-3.4l23.1-0.7l11.3-29l29.6-10.3l26-0.1l17.5,9.8l2.9-0.2
+		l-0.4-2.6l-13.9-8.8l18.3-27.3l-2-1.9l-15.1,18l-10.8,4.3l-33,3.5v-7.3h-1.7l-5.1,4l-7.5,10.1l-15.2,9.8l-9.4,12.6l-44.6,0.6
+		l-5.2-8.3l5.7-15.9l6.3-9.4l13.1-13.5h5.3l8.6,3l16.1-10.5l-3.5-0.7l-4.8,3.2h-7.1l-18.7-6h-5.4l-9.4,8.7l-13.7,1.4l-7-5.4l-4-9
+		l10.8-41l-9.4-18.6l-9.1-23.1l8.9-11.4l2.3-11L142.1,3L138.3,3.5z"/>
+</g>
+<g id="prop_1_6_1" transform="translate(1966, 495)">
+	<rect x="106" y="137" class="st0" width="177" height="120"/>
+	<title  style="display:none">Bench</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="176" height="119" xlink:href="../../_common/prop_sprites//furniture_1_6_1_bench.png"  transform="matrix(1.0065 0 0 1.0065 -7.520763e-02 0.1111)">
+	</image>
+	<path class="st1" d="M49.5,9.1l-4.8,10.3L44,30l-8-5.1L24.4,26l-10.3,5.6l-5.6,6.8l-2.4,8.7l1.3,8.8l-3.1,2.5v8.9l3,5.7l5.3,4.2
+		h7.3l7.2,7.5l2.2,4.4V96L21,108.2l-2,0.1l-2-3.6h-3.8l-3,3.8v5.2l3.1,4.4h5.8l0.6-5.1l26-1l4.5,1.1l-0.5,4.5l5.6,0.6l2.9-2.3v-8.7
+		l-2.3-5.1h-3.5l-2.9,4.5l-3.3-2.7l-2-7.3V90l2.8-6.8l8.1-5.1l3.1-5.9v-4.1h42.9l3.1,5.9l4.5,3.1l7.1,2l8.3,7l2.2,7l-1.4,4.4
+		l-7,10.6h-2.8L114,106l-3.9-0.3l-2.6,3.9l-0.3,6.3l2,3.2h6.7l-0.1-5.5l6.4,0.9l13-1.9l12.2,1.3l-1.1,4.3l1.8,1.9l4.2-0.1l3.2-3.5
+		l0.2-6.6l-2.7-6.6h-3.7l-2.3,4.4h-1.7l-4.3-6.9l-0.2-9.9l1.9-5.6l7.3-4.2l5.5-7.1l4.2-21.6l0.4-16.5l-2.5-18.3l0.4-4.7l4.1-2.4
+		l4.9,0.4l4.3,5.8l-0.1,5.8l-3.3,2.8l-0.1,3.1l3,2.9l4-0.1l1.9-4.7l-0.4-9.3L174,7.8l-5-4.5l-10.8-0.1l-5.1,4l-78,0.1l-5.1-4H59.5
+		L49.5,9.1z M70,27.2H53.5l4.4-8.9l11-0.1l-0.5,6.7L70,27.2z M150.3,27.1l-74.7,0.2l1.9-1.3l0.6-7.7l72.5-0.1L150.3,27.1z
+		 M40.8,34.6l2.8,6.8l0.3,6.9l-1.5,7.9h-23L16.6,49l0.3-6.6l4.1-6.2l6.6-4.2H36L40.8,34.6z M142.8,38.2l7.7,7l-20.3,0.1h-17.7
+		l3.9-6.4l7.4-3.1l11.6-0.1L142.8,38.2z M106.3,45.2h-55v-8l56.4-0.1L106.3,45.2z M105.3,56.2h-52v-2h52V56.2z M151.3,56.1l-40,0.6
+		v-2.5h40V56.1z M31.8,80.7l-9.6-9.6v-2.9l10.3,0.6L31.8,80.7z M51.3,70.8l-3.5,4.9l-8.5,4.6l1.2-12.1h10.8V70.8L51.3,70.8z
+		 M129.7,72.8l-0.2,7.9l-1.8-0.4l-8.1-7.7v-4.1h8.9L129.7,72.8z M147.5,71.9l-2,3.7l-6.7,4.2h-2.3v-5.9l2-1.2v-3.9h7.8L147.5,71.9z
+		 M29.9,107.3l6.8-8l5.5,5.3l-0.1,2.1L29.9,107.3z M138.5,107.5l-12.7-0.1l5.4-4.3l1.7-3.9l6.1,6.5L138.5,107.5z"/>
+</g>
+<g id="prop_1_6_2" transform="translate(1642, 977)">
+	<rect x="-59" y="-14" class="st0" width="124" height="65"/>
+	<title  style="display:none">Coffee Table</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="123" height="64" xlink:href="../../_common/prop_sprites//furniture_1_6_2_coffee_table.png"  transform="matrix(1.0097 0 0 1.0097 -9.849228e-02 0.1886)">
+	</image>
+	<path class="st1" d="M41.2,7.2h-4l-5.6,4.7L29.4,12l-1.8-3.1l-1.9,1.2l0.8,8.1l4.7,1.2l2.3,2.8h-29l-1.3,6.9l2.6,4.6L7.6,35
+		l-1.4,5.4l3.2,2.3l-3.6,5.8v6l3.4,4.3l1,5.1h6.5l0.6-4.8l5-6v-6.7l-4.5-4.2l2.7-1.7L19,34.2h17.1l1,1.7l-1.8,6.4l2.7,1.1l-2,5.7
+		l4.2,9.4v5.4l4-0.2l5.2-14.9l-2.1-5.6h2.8v-2L48,37.5l1.2-3.3h24.1v8h3.1l-3.1,5.9v6.8l3.8,3.4l1.2,4.9h4.5l4.7-11.5l1.1-4.6
+		l-4.4-4.6l3.2-2.6l-3.3-3.6l1.3-2.1h20.1l-0.9,4.4l1.9,4.7l-1.8,2.9L105,51l3.8,6.9v5.8l6.4-0.1l3.7-16.6l-1.2-3.8l-1.6-0.2
+		l1.3-2.7l-1-6.3l5.7,0.3v-3l2.1-0.1l0.1-8.8L101.2,22l-1.9-2l0.7-3.8l-12-1l-2.7,2.2l1,2.7h-2.9v-2.9L79.3,15l-8.4,0.6l-0.6,4.5h-5
+		l1.2,2H53.3v-2.9l5.5-0.6l1.9-5.6l-2.1-3.4l-3.2-0.1h-3.2l-1.4-2.1l-3.7-0.7l-0.7-2.6l-2.6,0.1L41.2,7.2z M58.5,14.4L57,16.9h-2.5
+		v-4.7h2.6L58.5,14.4z"/>
+</g>
+<g id="prop_1_6_3" transform="translate(923, 1081)">
+	<rect x="-97" y="-22" class="st0" width="194" height="82"/>
+	<title  style="display:none">Desk</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="193" height="81" xlink:href="../../_common/prop_sprites//furniture_1_6_3_desk.png"  transform="matrix(1.0063 0 0 1.0063 -0.1039 0.2466)">
+	</image>
+	<path class="st1" d="M4.3,6.4v10.5L5.4,18L5.2,52L3,63.7l2.9,3.9l2.5-4.7l2.8,6.5v7.8h-2v4h12v-3h-2.6l-0.4-7.5l3.4-9.5l42.1-0.8
+		l5.3,0.9l1.3,5.3l3.9,5.4l1.2,6.2H72l1,3.4l9.4-0.3l-1.6-4.6l0.2-4l3.3-11.2l7.4-1.3h10l4.5,11.7v6.2l-2,1.2l0.1,2.5h12l-0.1-3.6
+		h-3v-5.7l6-8.3v-1.7l11.6-2.5l15.3,2.3l3.6-1.9l14.8,0.6l4.4-1.5l7.5,1.6l4.8,12.2l-2.3,6.3v2.1h11l-1.9-8.4l1.2-4.9l4.3-1.1
+		l-1.8-9.6l0.2-42l1.5-6.5l-2.4-6H5.4L4.3,6.4z"/>
+</g>
+<g id="prop_1_6_4" transform="translate(1828, 1093)">
+	<rect x="-21" y="-53" class="st0" width="44" height="101"/>
+	<title  style="display:none">Chair</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="43" height="100" xlink:href="../../_common/prop_sprites//furniture_1_6_4_chair.png"  transform="matrix(1.0121 0 0 1.0121 0.2403 -0.104)">
+	</image>
+	<path class="st1" d="M3.3,7l1.8,6.4v46.8l2.3,4.2L6.9,99.9h4l-0.4-28.2l2.9-0.1l-0.3,28.3l4.9-0.1l0.5-2.9l-2.2-2.2L16.7,72
+		L28,72.1v28.1l3.9-0.3l-0.8-28h5.3l-0.7,28.4H41l-1-4.6l-0.8-23.8l1.9-1.2l0.7-11l-9.3-2.8l0.3-52.5l-1.5-1.6l-2.9,3.9l0.8,5.4
+		l-7.4-4.9h-6.7l-4.9,5.9l-2.3-0.2l0.4-6.3L5.8,3.2L3.3,7z M10.1,23.7L9.5,53l1.3,3.8l-2.6,0.4l0.1-38h3.2L10.1,23.7z M29.5,30.4
+		l-1.8-11.2h1.6C29.3,19.2,29.5,30.4,29.5,30.4z M29.8,56.2h-2.4l2.4-5.7V56.2z"/>
+</g>
+<g id="prop_1_6_5" transform="translate(1311, 1054)">
+	<rect x="-49" y="-71" class="st0" width="103" height="119"/>
+	<title  style="display:none">Couch</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="102" height="118" xlink:href="../../_common/prop_sprites//furniture_1_6_5_couch.png"  transform="matrix(1.009 0 0 1.009 3.879210e-02 -3.359462e-02)">
+	</image>
+	<path class="st1" d="M22.3,6.2L16.8,10l-6.2,0.3L6.1,15L5.8,53.7l-3,6.3l3.8,14.7l0.8,42.1h2.8v2h15.2l1-4h35.8l0.3,4l9.3-0.1
+		l1.6-3.9H77v4h13.5l-0.3-6.6l3.6-4.3l2.8-35l2.8-1l2.9-5.7v-7.4l-6.8-6.3l-13.2-4.4h-6.1l1.2-10.5l-2.1-17.9l2.9-3.2l-4-6.5
+		l-8.3-0.3L64,11.3l-4.5-3.1l-14.7-5l-12,0.1L22.3,6.2z"/>
+</g>
+<g id="prop_1_6_6" transform="translate(1542, 1106)">
+	<rect x="-61" y="20" class="st0" width="123" height="78"/>
+	<title  style="display:none">Dresser</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="122" height="77" xlink:href="../../_common/prop_sprites//furniture_1_6_6_dresser.png"  transform="matrix(1.0096 0 0 1.0096 -8.338247e-02 0.1318)">
+	</image>
+	<path class="st1" d="M12.3,6.4V8L16,8.9l1.1,5.8l-2.6,5l-5.4,5L4,37.4L3.1,55.5l2.6,17.7h3.2l4.3,4h9l1.2-2h11.8l1.2,2h7.9v-2h48.9
+		l1.4,2.4l6.3-0.2l4.7-1.4l3.4,1.5l4.9,0.1l2.7-4.2h2.1l3.8-21.9L122.2,28l-6.8-13.4l1.1-5.8l3.8-1l-0.6-4.2L13.4,3.2L12.3,6.4z"/>
+</g>
+<g id="prop_1_6_7" transform="translate(2199, 477)">
+	<rect x="-74" y="-76" class="st0" width="138" height="175"/>
+	<title  style="display:none">Wardrobe</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="137" height="174" xlink:href="../../_common/prop_sprites//furniture_1_6_7_wardrobe.png"  transform="matrix(1.0063 0 0 1.0063 6.561423e-02 -5.174201e-02)">
+	</image>
+	<path class="st1" d="M54.3,8.2l-5.5,0.1l5,4.2l-5-1.4L38.3,9.9l-7.2,4.3H20l-4-3.5H3.8l0.6,4l5.9,5v3.6l2.9,5.5l-1.9,2.9v3.5l4,4
+		v117.9l-2,1.2v6.9L6,174.3h129.2l0.1-2.7l-3.9-7.6l1.1-5.6l-2.2-1.3V38.3l2.2-1.4l0.5-5.7l-1.6-4.1l1.8-4.4l1.1-5.5h3v-6h-5.9
+		l-2.2,4h-5.7l1.1-4.2L122,9.4l-12.2,1l-6.2,3.8h-17l-9.7-4.3l-7.1-0.1l-5.3,1.4l1-4h-5l-1-4h-3.2L54.3,8.2z"/>
+</g>
+<g id="prop_1_6_8" transform="translate(1081, 454)">
+	<rect x="-150" y="-148" class="st0" width="107" height="150"/>
+	<title  style="display:none">Door</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="106" height="149" xlink:href="../../_common/prop_sprites//furniture_1_6_8_door.png"  transform="matrix(1.0076 0 0 1.0076 9.576355e-02 -6.825954e-02)">
+	</image>
+	<path class="st1" d="M38.3,6.2l-12.2,6.3L9.4,27.2l-6.1,7.5L3.4,150h102l-0.1-118.7L91.4,12.7l-5.2-4.9L62.5,3.1L48.8,3.2L38.3,6.2
+		z"/>
+</g>
+<g id="prop_1_6_9" transform="translate(1324, 922)">
+	<rect x="-49" y="-74" class="st0" width="103" height="122"/>
+	<title  style="display:none">Freeman</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="102" height="121" xlink:href="../../_common/prop_sprites//furniture_1_6_9_freeman.png"  transform="matrix(1.0089 0 0 1.0089 4.588284e-02 -3.874799e-02)">
+	</image>
+	<path class="st1" d="M41.8,5.9L28.3,7.1l-12.5,5l-5.3,1.3L6.1,18L5.8,56.7l-3,6.3l3.8,14.7l1,42h2.8v2h15.2l0.5-3.8l36.3-0.2v4h8.9
+		l2.2-4h4v4h13.1l-0.1-6.6l3-5.8l3-33.3l2.8-1l2.9-5.7v-7.4l-6.8-6.3l-18.6-6.3l0.1-7.6l-1.6-18.9l2.9-3.2l-5.6-6.7l-10.5,1
+		l-3.8-4.8l1.1-2.8l-2.7-2.6l-10-0.4L41.8,5.9z"/>
+</g>
+<g id="prop_1_7_1" transform="translate(1643, 292)">
+	<rect x="118" y="85" class="st0" width="132" height="202"/>
+	<title  style="display:none">Roof Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="131" height="201" xlink:href="../../_common/prop_sprites//gazebo_1_7_1_roof_side.png"  transform="matrix(1.0058 0 0 1.0058 0.1222 -7.976750e-02)">
+	</image>
+	<path class="st1" d="M111.4,5.7l-2.2,11.9v6.1l-7.3,10.9l-17,17.6l-9,6h-3.7v2l5.2,8.5l2.6,2.1L67.6,89.7l-13.8,12.6l-11.4,5.4
+		l-0.1,1.8l6.1,9.9l-6,13.5L27.5,153l-12.3,10.2l-4.4,1l-7,0.5l0.5,5l8.5,13.8l3.6,0.5l17.8,17.2h7.1v-2L66,188.3l12.8-2.3l4.6-2.2
+		l14.3,2.5l12.3,6.8l2.4-7.9h3.5l9.5-66.5l-1.3-66l3.1-12l1.4-19.4l2.6-1l-4.9-10.6V6.2h-8.9l-5-1.9L111.4,5.7z"/>
+</g>
+<g id="prop_1_7_2" transform="translate(1205, 453)">
+	<rect x="115" y="86" class="st0" width="158" height="199"/>
+	<title  style="display:none">Roof Mid</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="157" height="198" xlink:href="../../_common/prop_sprites//gazebo_1_7_2_roof_mid.png"  transform="matrix(1.0056 0 0 1.0056 6.355179e-02 -5.046551e-02)">
+	</image>
+	<path class="st1" d="M32.5,7.9L6.8,9.7V19l3.4,7.7L6.3,72.6L8.6,74l-3.4,34.3l4.3,11.4l-0.3,36l-6,30.7l8.9,10.2l17.7-6.5l23-1
+		l27,3.8l35-7.9l11.2,1.1l27.9,11.9l3.4-1.9V184l-6.1-27.3l-1.8-27.7l4-10.3l1.9-1.9l-4.8-48.1l2.7-14l-4.8-19.1l0.2-13.4h1.7v-18
+		h-1.9l-10.6,4.2l-10.5,0.3v2.7L106.8,10l-2.4-2l-7.1,2.3L46.8,8.4L32.3,4.2h-0.8L32.5,7.9z"/>
+</g>
+<g id="prop_1_7_3" transform="translate(5, 5)">
+	<rect x="6" y="38" class="st0" width="380" height="348"/>
+	<title  style="display:none">Fountain</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="379" height="347" xlink:href="../../_common/prop_sprites//gazebo_1_7_3_fountain.png"  transform="matrix(1.0027 0 0 1.0027 -2.102771e-02 2.292370e-02)">
+	</image>
+	<path class="st1" d="M180.4,5.8l1.9,7.9v3.1L169.6,16l-6.3,5.3L157.4,33l-12.2-15.1v5.2l5.1,14.2l-5.2,6.2l-3.7,7.2l-1.9,13.6
+		l0.5,6.2l-2.4,9.3l1.9,9l-0.6,12.4l7.2,14.6l2.4,14.9l2.6,5.1l-0.8,12.3l-2.9,5.7l-3.1,11.9l-4.1,30l-1,4.5l-11.1,8.1l-6.4,9.9
+		H13.4L6.5,225l-3.4,9l3.3,6.9l6.3,4.7l12.1,0.2l8,4.2l4.5,4.3l2.7,5.4l5.6,17l8.6,8.3l13.6,7.9l16.5,7.6l-6,6l-3.3,8.7l2.1,7.5
+		l0.6,1.6l0.7,1.6l-8.6,1.4l-10.6,3.1l-7,6.1l-2.2,4.2l-1.5,6.5h285.8l-1.3-6.5l-2.8-5.5l-7.9-5.3l-13.5-3.7h-4.4l2.9-6.9v-6.5
+		l-4.2-8.7l-4.6-3.4l25.3-12.3l11-8.2l4.4-7.3l1.3-8.2l5.8-11.4l7.2-5.5l10.3-3.5l1.3,2.3l8-2.4l6.2-7.1v-6l-3.9-7.6l-6.3-5.3H218.3
+		v-4.5l-5.6-7.9l-27.9,0.5l14-8.9l21.9-7.3l8.9-5.9h2.7l3.3-5.1l-1.1-12l-5.4-11.1l-11.8-12.6l-11-7.5l13.6-9.3l1.6,5.7l12.8,7.4
+		l4-2.5h1.8l7.3-6.5l7.8-10l4.9-16l0.6-16l-3.5-6.5h-4l-7.1,3h-3.9l-5.5-2.9l-7.5-11.2l-6.9-4.1V54.7l-2.7-10l-3.7-7l0.5-5.5l-5.4-5
+		l-8.2-2.3l-9.2-4.2l-4.4-8l-7.6-8.8L180.4,5.8z M200.3,50.4V55l-6.5-2.3l-1.5-2v-3.5h6.8L200.3,50.4z M183.8,122.2l-4.3-4.5
+		l-1.2-6.7l10.7,9.7L183.8,122.2z M188.3,175.4l-8.6,5.7l-8.6,11.6L164,207l-5.9,1.2l1,6.5l-1.9,3.5h-12.5l2.2-3.9l7.2-3l1.3-5.5
+		l22.3-33.9L188.3,175.4z"/>
+</g>
+<g id="prop_1_7_4" transform="translate(725, 482)">
+	<rect x="15" y="85" class="st0" width="346" height="184"/>
+	<title  style="display:none">Dome</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="345" height="183" xlink:href="../../_common/prop_sprites//gazebo_1_7_4_dome.png"  transform="matrix(1.0035 0 0 1.0035 -9.728806e-02 0.1832)">
+	</image>
+	<path class="st1" d="M173.4,13.7l-11.7,7.2l-0.6,6.2l8.1,2l-0.2,2.5l-8.2,3.1L128,41.4l-26.2,10.7L69.4,72.4L46.3,92.2l-13.8,16.5
+		l-10.1,17l-5.5,14l-6.7,6.4l0.3,2.5l5,4.7l0.1,3.9l-6,3.9L4,166.6l0.2,12.5l5.3,4.5h330.6l5.8-4.1l-0.1-15.9l-10-13.5v-2.8l9.9-4.1
+		l-6.7-8h-3.6L324,116.8l-14.2-18.1L286,74.8l-21.8-17.6l-26.5-14l-24.6-6.5L188.9,35l-2.3-3.7l-3.1-0.1v-2.3l6.6-3.4v-4l-6.8-6.6
+		L179,4.1L173.4,13.7z"/>
+</g>
+<g id="prop_1_7_5" transform="translate(1527, 158)">
+	<rect x="139" y="87" class="st0" width="106" height="305"/>
+	<title  style="display:none">Piller</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="105" height="304" xlink:href="../../_common/prop_sprites//gazebo_1_7_5_piller.png"  transform="matrix(1.004 0 0 1.004 0.2923 -0.1013)">
+	</image>
+	<path class="st1" d="M3.8,6.8l-0.3,6.5l2.7,5.9H11l3.6,4l6-0.2l6,8L29,46.2l0.2,225h-1.6L22,282.9l-2.4-3.2l-7.2,0.6l-7.1,7.3
+		l-1.8,6.9l1.9,5.4L14,304h4.6l2.8-3.2l30.5,0.8l29.1-1l6.4,3.3l4.4,0.1l7.7-3.6l6-6.6l-0.4-11.5L99,277l-8.1-0.2l-1.9,1.7l-3.5-6.2
+		l-3.1-1.5L82.3,38.5l9.5-17.2l4.9-0.6l4.6-8l-1.2-4l-3.9-4L12.8,4.3L3.8,6.8z"/>
+</g>
+<g id="prop_1_7_6" transform="translate(2036, 170)">
+	<rect x="139" y="255" class="st0" width="106" height="137"/>
+	<title  style="display:none">Pillar Broken</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="105" height="136" xlink:href="../../_common/prop_sprites//gazebo_1_7_6_pillar_broken.png"  transform="matrix(1.0082 0 0 1.0082 7.137808e-02 -5.520781e-02)">
+	</image>
+	<path class="st1" d="M29.8,12.7l-0.6,89.5h-1.5L22,114.1l-2.4-3.2l-7.2,1.4l-6,5l-3.2,7.2l1.1,6.7l8.8,4.7l6-0.1l2.1-2.9l34.7,1.3
+		l24.8-1.5l6.8,3.3l4.8,0.1l7.8-4.5l5.4-4.8v-10.2l-3.7-5.7l-2.4-2.2l-8.1-0.1l-2.5,2.4l-2.9-6.8l-3.5-1.5l-0.7-62l-8.3-7.4l-3.3-13
+		l-10.9,1.3L52.7,6.9l-4.1,4.4l-2.7-3.2l-7.5-3.9h-1.8L29.8,12.7z"/>
+</g>
+<g id="prop_1_7_7" transform="translate(1776, 894)">
+	<rect x="135" y="230" class="st0" width="123" height="62"/>
+	<title  style="display:none">Piller Chunk</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="122" height="61" xlink:href="../../_common/prop_sprites//gazebo_1_7_7_piller_chunk.png"  transform="matrix(1.0098 0 0 1.0098 -0.1003 0.1998)">
+	</image>
+	<path class="st1" d="M18,4.2l-2.8,4h-2.9v3h-1.6l-3.6,2.6l3.2,6.3V24L3,28.3l2.4,2.8l3.3,16.1l7.9,3.2l6.9,7.9l8.3,2.5l75.4-0.3
+		l4.5-2.8l4-7.9v-5.3l7.4-14.7l-5.4-7.7v-4.6l-3.2-6.7l-5-3.3L97.9,3.2l-2.2,0.5L18,4.2z"/>
+</g>
+<g id="prop_1_8_1" transform="translate(1109, 922)">
+	<rect x="-38" y="-37" class="st0" width="77" height="88"/>
+	<title  style="display:none">Candle</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="76" height="87" xlink:href="../../_common/prop_sprites//lighting_1_8_1_candle.png"  transform="matrix(1.0122 0 0 1.0122 3.584337e-02 -3.137757e-02)">
+	</image>
+	<path class="st1" d="M36,41l1.5,2.4L35.2,45l1.8,6.1v10.2l-3.2,0.8l3.5,3.8l-2.3,5l2.7,5.1l0.1,4.6L36,81.1l0.1,2.5l-5.9,1.9v2h20
+		l-1-2.4L44,83.8l0.3-3l-2-0.6l-0.5-4.5l2.6-5.3L42,66l4.4-3.4l-2.8-1.1l0.7-6.5L43,41.2l-3,2.5l2.6-4.2l-1.9-5.7l-2.1-0.7L36,41z"
+		/>
+</g>
+<g id="prop_1_8_2" transform="translate(1109, 810)">
+	<rect x="-37" y="-40" class="st0" width="75" height="102"/>
+	<title  style="display:none">Lamp Small Front</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="74" height="101" xlink:href="../../_common/prop_sprites//lighting_1_8_2_lamp_small_front.png"  transform="matrix(1.0112 0 0 1.0112 8.692028e-02 -6.383836e-02)">
+	</image>
+	<path class="st1" d="M25.6,34.3l-0.4,0.8l1.9,1.2L25,41.1l1.3,4.8l11,8.4v3.6l-5,2.3v6.2l6.3,7.2L34.8,75l-4.5,6.1v11l5.5,9.1
+		l5-0.1l4.5-8.9V80.4l-3.5-6.2h-1.5v-3.9L34.2,66l0.6-4.9l2-0.4l0.6,5.5h1.8l0.6-5.5l5.6,0.7l2.9-2.4v-3.8h-4v2.1l2-1.2v3.1h-3.8
+		L39.3,58v-2.8l8-8H49l2.2-6.2l-1.9-3.5l1.1-4.1l-24.3,0.2L25.6,34.3z"/>
+</g>
+<g id="prop_1_8_3" transform="translate(674, 1062)">
+	<rect x="-68" y="-39" class="st0" width="75" height="108"/>
+	<title  style="display:none">Lamp Small Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="74" height="107" xlink:href="../../_common/prop_sprites//lighting_1_8_3_lamp_small_side.png"  transform="matrix(1.0107 0 0 1.0107 0.1042 -7.228278e-02)">
+	</image>
+	<path class="st1" d="M25.6,33.7l0.8,2.5l-1,1.5l-0.3,5.9l6.5,6.2l2.4,0.3l0.8,2.2l1.6,0.5l0.4,2.6l-3.1,2.3l-0.3,3.8l1.4,4.8
+		L34,73.7l-4.3,3.9l-1.6-0.1l-6.6-6.2l-1.3,1.2l1,34.8l2-1.6l1-16.5l10.5-9.9l2.3-6.9L36.6,61l1.7-2.8h2.9v-3l-2.7,0.1l0.1-2.2
+		l2.9-0.2l0.7-2.8l2-0.6l6-6.3v-5.7L48,35.4l2.2-1.3v-1.6L26,32.7L25.6,33.7z"/>
+</g>
+<g id="prop_1_8_4" transform="translate(1106, 614)">
+	<rect x="-44" y="-44" class="st0" width="88" height="88"/>
+	<title  style="display:none">Lamp Big Front</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="87" height="87" xlink:href="../../_common/prop_sprites//lighting_1_8_4_lamp_big_front.png"  transform="matrix(1.0115 0 0 1.0115 0 -4.036987e-05)">
+	</image>
+	<path class="st1" d="M45,28.4L34.8,27l3.6,5.4l-2.9,2.3l-6.2,9.2l-4.4,3.6v16.6l14.3,10.1h12l14-9V47.1l-5.6-4.7l-6.3-10.2l1.9-1.1
+		V27l-4.9,1.3L49,26.2h-2.7L45,28.4z"/>
+</g>
+<g id="prop_1_8_5" transform="translate(1106, 712)">
+	<rect x="-71" y="-44" class="st0" width="88" height="88"/>
+	<title  style="display:none">Lamp Big Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="87" height="87" xlink:href="../../_common/prop_sprites//lighting_1_8_5_lamp_big_side.png"  transform="matrix(1.0115 0 0 1.0115 0 -4.036987e-05)">
+	</image>
+	<path class="st1" d="M36.3,27l3,5.7v5l-5.7,8.7l-0.2,4.7l1.7,5.7l2.3,2.1l-2.3,2.8l-2.5-0.4l-3.4-7.7V38.3l-6-4v45.5l6-4.8v-3.6
+		l7.5-5.5l2.5-3.1v3.4l8.6,0.3l8.7-18.1l-5.3-9.5v-3.5l5.1-6.2L55,27.1l-2.9,1.1l-3.8-2l-5.2,2.3l-2.3-2.3h-4.6L36.3,27L36.3,27z"/>
+</g>
+<g id="prop_1_8_6" transform="translate(1785, 292)">
+	<rect x="-36" y="-41" class="st0" width="73" height="73"/>
+	<title  style="display:none">Lamp</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="72" height="72" xlink:href="../../_common/prop_sprites//lighting_1_8_6_lamp.png"  transform="matrix(1.0139 0 0 1.0139 0 -4.036987e-05)">
+	</image>
+	<path class="st1" d="M28.5,26.1L26.1,33l-7.8,11.2l4.4,2.3l11.9-0.1L30,49.9l1.3,3.5l-4,5.1v5.8l2.1,3.9l3.5,3l8-0.3l5.2-4.8
+		l1.3-5.9L43.6,54l1-3.1l-4.4-4.5l15.4-0.8L46,25.2l-13.7-0.6L28.5,26.1z"/>
+</g>
+<g id="prop_1_8_7" transform="translate(1205, 662)">
+	<rect x="-68" y="-82" class="st0" width="137" height="137"/>
+	<title  style="display:none">Torch Front</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="136" height="136" xlink:href="../../_common/prop_sprites//lighting_1_8_7_torch_front.png"  transform="matrix(1.0074 0 0 1.0074 0 -4.036987e-05)">
+	</image>
+	<path class="st1" d="M64.3,40.6l5.3,8.6l-3.8,4.2L55.5,60L51,69.3l2.1,15.2l1,0.9l-4.4,8.3l0.3,8.4l3.7,6.2l8.8,5.9H67l3.4,5.3
+		l4.3-5.3l9-4.6l4-6.9l-0.2-11.4l-3.4-5.2l0.8-8.7l-2.7,1l3-5.7v-5.4L81.1,66l2.4-11.6l-2.2-1.3v2.1h-2v-2.5l-2-7.3l-8.9-5.2
+		l-0.6-4.5L64.3,40.6z M52.3,56.3l1.6,2.9l4.2-3.9l-2-8.1h-1.4L52.3,56.3z"/>
+</g>
+<g id="prop_1_8_8" transform="translate(1680, 533)">
+	<rect x="-80" y="-84" class="st0" width="137" height="137"/>
+	<title  style="display:none">Torch Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="136" height="136" xlink:href="../../_common/prop_sprites//lighting_1_8_8_torch_side.png"  transform="matrix(1.0074 0 0 1.0074 0 -4.036987e-05)">
+	</image>
+	<path class="st1" d="M64,40.2l4.4,6.1l-0.6,5.3L56,59.7l-4.2,5.6l-0.5,15.3l-2.5,1.6h-4.4L42.2,74l-8.4-3.7L31,119l1.3,2.2l6.4-3.2
+		l3.5-3.1V102l5-3.9v-4.6l4-3.7l2,2l2.2,23.9l2.5,3l1,3l5.5-9.5H67l7.1-10.5l3.3-8.5h2.7l3.4-15l-2.8,0.3l3.6-4.1l1.2-7.3L81.3,66
+		v-3.2l2.3-6.3L82.3,53l-2.8,2.3L76,44.1l-7.6-3.9L67.8,36L64,40.2z M52,58.2h1.8l3.7-2.7l-1.2-7.6L54.5,46L52,58.2z"/>
+</g>
+<g id="prop_1_8_9" transform="translate(1373, 642)">
+	<rect x="-73" y="-50" class="st0" width="146" height="134"/>
+	<title  style="display:none">Fireplace</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="145" height="133" xlink:href="../../_common/prop_sprites//lighting_1_8_9_fireplace.png"  transform="matrix(1.0072 0 0 1.0072 -2.061616e-02 2.242894e-02)">
+	</image>
+	<path class="st1" d="M32.3,17.3l-1.3,7l-7.4,2.9l-6.5,31.3l1.9,1.9l-1,3.3l-1.9,4.1l0.6,25.4h-1.3L13,99.1l1.3,2.1h122.4l2.7-1.7
+		l-3.3-6.3h-3.4l0.7-22.6l-3.2-10.7l1.9-2.3l-6.2-30.5l-2.6-1.9l-4.8,0.4l-1.4-8.2l-32-14.5l-5.4,2.4l-16-1.9L32.3,17.3z"/>
+</g>
+<g id="prop_1_8_10" transform="translate(1205, 1054)">
+	<rect x="-144" y="-128" class="st0" width="96" height="130"/>
+	<title  style="display:none">Console</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="95" height="129" xlink:href="../../_common/prop_sprites//lighting_1_8_10_console.png"  transform="matrix(1.0087 0 0 1.0087 8.540246e-02 -6.302018e-02)">
+	</image>
+	<path class="st1" d="M3.3,21.7v22.1l13.6,13.4l10.5,0.1v2l2.6,1.9h-8.2l-11,7.4l-2.4,3.1l-0.1,7.5h4V88l3,2.4L15,97.5l1.1,4.8
+		l4.4,4.1l6.5,0.2v11.8l-8,0.9l-1,3.8l-5.7,1.9l1.6,5h73.8l0.3-3.8l-4.8-1.2l-1.2-3.6l-9-1.8l-2.1-2.7h5l5.5-5.7l1.3-8.8l-1.6-10.5
+		l4.4-3.4l1.1-9.3h3.7v-8.6l-2.5-3.1l-10.2-6.3H62.3l0.1-4h18.1l14.6-12.5l0.2-25L78.8,3.2h-57L3.3,21.7z M26.8,98l-0.3,3.8
+		l-3.8,0.7l-3.3-3.1l0.1-6.6L26.8,98z M78.8,102.4l-1.3,7.2l-3.1,3.5l-2.9,0.3l0.3-14.1l5.3-5.3L78.8,102.4z"/>
+</g>
+<g id="prop_1_8_11" transform="translate(324, 744)">
+	<rect x="-168" y="-137" class="st0" width="240" height="235"/>
+	<title  style="display:none">Computer</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="239" height="234" xlink:href="../../_common/prop_sprites//lighting_1_8_11_computer.png"  transform="matrix(1.0042 0 0 1.0042 -5.229075e-03 5.300201e-03)">
+	</image>
+	<path class="st1" d="M129.8,8.8v6.4l-7.2-0.8l-3.6,3l-7.8-6l-12.4-0.3l-7.6,4.6l-3.4,6.9v8.8l2.2,8.4v23.3l1.5,3.2l-0.9,0.1L35,69
+		v0.3l-0.3,0.4l0.8,68.8l25.7-0.9l3.4,3.6h7.9l-2.6,3.8l-12,0.2l-7.6,5.2l-1.9,12.5H36.6L31,136.8l-8.6-6.4l-15.7,5.2l-2.3,1.8
+		l-1.3,7l8.3,24.9l7.3,3.2l11.5-2.9v5.6l4.8,5.6l4.9,1.4h9.7l5.4-0.5l3.4,4.7h2.7l2.4,4.5l2.7,1.6v7.9l-2,0.4l0.3,4l2.1,2.7l3.7,1
+		v3.7l1.2,3.2l6.5,0.8l-10.8,11l-5.8-0.1l-2.2,2.7l-22.9,2.8l-1.2,2.6h135l2-2.2h4.8l0.3,2.1h3.9l0.9-2.1h3v2h5.8l1.2-2.5l1.2,2.5
+		h3.9l4.8-5.5l0.1-5h8.4l4.9-4.2l3.1-10.3l-0.1-9.7l-0.6-3.9l3.2-5.8l-0.2-7.9l-1.5-5.5l3.8,1.5l8.7-3.8l8-25.4l-2-7l-15-5.8
+		l-3.4-0.3l-7.4,5.9l-3.9,20.4l-5.7-1.5v-2.5l-4.5-4.2l-4.7-0.8l-0.1-10.9l2,0.1l1.8,2.5l2.7,1.1l1.8-2.3v-3.8h10v-43l-22-2.2v-4.8
+		H185l-2,2l0.3,2.8l-10.9-1l0.6-26.6l-2.2-3.7l-5.7-0.4l-3.4,1.8l0.1,6.9l-2.4,5h-2.3l-1.9-3.2l0.3-25.7l-4.6-7.4l-3.5-0.8v-3.9
+		l-3-2.4V15.2h-2.6l-5.4-5.6V4.2h-2.7L129.8,8.8z M126.8,32.3l-2.5,2v-2.1L126.8,32.3z M101.8,52.8l2.8,2.4h4.6l0.4,6.7l-4.8,4.4
+		l-9.4-0.2l-3.2-5.4V42.3l8.5,3.8L101.8,52.8z M152.6,49.7l-0.1,24.8l2.9,4.7l-3.1-1.2l-5.1-4.6v-9.2h-2.8l-1.2-3.2V47.3l3.5-2
+		l4.4-0.1L152.6,49.7z M109,47.1l0.2,5.7h-3.8l-1.9-2.4l-0.3-4.4L109,47.1z M138.3,64.9h-3.8v-2.6l3.8-2.1V64.9z M132.3,65.2h-7
+		l0.1-1.4l7-1L132.3,65.2z M170.4,70.3l-2.5,2.7l-0.3,3.3h-2l-4.2,4.2v7l-7.5,9.1l-3,0.8l-3.4-1.2V76l7.1,6.2h3.9l6-6.5l1-4h1.8
+		l-0.4-4.2l3.8,0.2L170.4,70.3z M157.3,112.2h-9L147,99.3l4.5,1.3l3.7-1.1l2.1-2.3V112.2z M157.3,119.2v12.5l-1.5,2.2l-4.4,2.3h-2.3
+		l-2.3-0.1l-3.9-2.9h5.4V118l4.5,1.2H157.3z M143.6,137.3l-5.4-1.3l-2.9-2.7h4.7L143.6,137.3z M126.1,141.3l-5.8-5.7l1.3-1.4h4.7
+		L126.1,141.3z M137.8,138.3l11.1,2.4l7.1-0.9l7-2.8l11.1,1.4l2.3,2.9l6.7,0.5v6l-5.4-0.5l-12.9-2.7v-4h-5v11l-3.5-0.3l-19.6-3.8
+		l-7.5-3.6v-9.6l2.4-0.1L137.8,138.3z M124.8,143.4l-3.3,3l-3.7,0.1l-5.5-6.7l3.4-1.4h3L124.8,143.4z M197.9,144.5l-1.3-1.8l2-2.4
+		l1.2,0.2l-0.3,4H197.9z M190.1,153.1l-1.9-0.8l0.3-10h2L190.1,153.1z M127.6,151.5l-10.4-1v-1.4l4.8-0.1l5.5-4.4L127.6,151.5z
+		 M149,152.9l10.2,1.7v1.6l-16,3.1h-3l0.2-7.5l-5,0.7l-6.1-0.2l-0.1-6.2l7.1,3.5L149,152.9z M165.1,152.5l0.1-1.6l6.1,1.5
+		L165.1,152.5z M165,162.2l-0.2-6.4h4.1L165,162.2z M136.3,171.9l2.5,3.3l5.6,0.6l-3.7,2.3l-6.4-2.7v-11.6l-5.1-7.5h7.1L136.3,171.9
+		L136.3,171.9z M156.7,164.4l-0.4-3.1l2.4,0.3L156.7,164.4z M162.8,181.2l-5.5-0.3l0.6-2v-3.1l2.2-0.4l0.4-3l-3.1-6.8l2.3-2.3
+		l2.9,2.7L162.8,181.2z M40.3,175.3l11.7,0.3l1.6,4L39.9,180l-4.4-2.2l-2.4-4.3l0.3-5.3l9.9-0.3L40.3,175.3z M206.4,168.9l-0.2,1.3
+		v2.9l9.5,2.8l2.6,6.4l-0.3,7.8l-2.6,5.5v3.9l0.9,3.6l-0.4,6.8l-3.8,9.5l-3.7,2.2l-6.4,0.3l-0.8-54.5h2.5L206.4,168.9z M117.9,177.8
+		l-0.9,2.5h-6.3l-7-2.4l-4.4-3h17.4L117.9,177.8z M138.5,179.3l-5.4,0.4l-3.2-5l5.4,3.6L138.5,179.3z M156.1,178.3l-0.8,3.2
+		l-7.3-0.8l-5-1.6l4.8-3.8h8.7L156.1,178.3z M114.3,183.1l-4.3,4.2h-4.3l-2.4,2.4l-5-4.7v-8.4l4.3,3.7l7,2.2L114.3,183.1z
+		 M154.8,183l3,2.6l-0.4,5.8l2,3.2l3.8,2l0.5,35.9l-22.4-3.4l1.8-1.8V183l-7-0.9l4.9-1.3l6.5,2L154.8,183z M162.3,193.4l-2.3-1.5
+		l0.1-6.5l-2.7-2.5h5.2L162.3,193.4L162.3,193.4z M132.5,191l0.4,36.3l1.6,2.3l-20.7,1.4l-1-5.2l-13.4,0.7l-7.1-2.4v-4.6l-3-2.4
+		v-1.8h5.9l3.1-4.4v-3.6l8.2-1.3l2-5.2l-2.1-3.2l2.3-2.3h3.1l12-10.8l5,6.6L132.5,191z M98.7,195.3l-1.8,1.4l-23.1,1l-2.1-2.8
+		l-0.5-3h2.6l0.1-3.5l11-0.1l5.3-1.6L98.7,195.3z M103.2,231l-0.2,2l-4.6,1l-3.9-1.3l0.1-3.7L103.2,231z M81.6,226.6h-2.7l2.3-2.2
+		L81.6,226.6z M85.4,229.8h-2.7l2.4-1L85.4,229.8z"/>
+</g>
+<g id="prop_1_10_1" transform="translate(574, 744)">
+	<rect x="97" y="44" class="st0" width="179" height="308"/>
+	<title  style="display:none">Gargoyle Front</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="178" height="307" xlink:href="../../_common/prop_sprites//statues_1_10_1_gargoyle_front.png"  transform="matrix(1.0039 0 0 1.0039 0.1572 -9.128813e-02)">
+	</image>
+	<path class="st1" d="M111.8,6.4l4.4-1.3l5.9,3l5.2,6.3v2.2l-4,4.2l5.8,23.1l-2,3.8l-15,15.2l-6.1-3l-13.7-1l-9.1,2.6l-6.4-6.2
+		l-8.6-3.1l-7.8-5.5L55,20.2l-6.5-4h-3.4L40,21.7l-21.4,39l-14,44.8l-0.5,3.4l11.4,39.2l-3.2,14v11.5l4.3,8.9l8.1,7.9l11.6,5.8
+		l13.5,12.2l1.7,3l-3.4,6.3l1.9,5l-5.6,7l-6.1,15.4l-0.7,14.4l1.6,12.1l4.9,10.8L56.3,295l14.4,7.2l14,4l13.1,1l17.5-2.1l14.2-5.6
+		l9.3-7.5l4.8-7.8l6.6-13.1l1.9-17.7l-1.8-13.7l-5.6-13.9l-9.6-10.6V211l3.4-7.1l6.4-6.4l18.7-9l4.5-4.9l2-21.4l-3.9-10.5l-2.1-1.9
+		v-6.7L162,139l16.3-30.2l-0.1-9.4L164.3,58l-14.1-28.3l-9-14.5h-4.8l-7.5-12l-13.1,0.1L111.8,6.4z M98.4,196.3l-2.3,9h-2.7
+		l-1.2-4.5v-5.5L98.4,196.3z"/>
+</g>
+<g id="prop_1_10_2" transform="translate(964, 187)">
+	<rect x="79" y="88" class="st0" width="226" height="257"/>
+	<title  style="display:none">Gargoyle Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="225" height="256" xlink:href="../../_common/prop_sprites//statues_1_10_2_gargoyle_side.png"  transform="matrix(1.0041 0 0 1.0041 3.415550e-02 -3.006790e-02)">
+	</image>
+	<path class="st1" d="M44.3,26.4l-13.5,9.5L13.1,57.2L7.3,69.1L4.1,82.7l-0.1,20l4.5,10.4l3.9,3.5l4-2.5l2.1,1.3l3-4.3l6.7,0.5
+		l5.6-5.2l4.4-2.2h10.7l10.3,3.1l1.2,1.9L56,122.7l-0.1,15l2.4,7.3l4.6,2.3l-8.2,0.5l-13.5,6.5l-11.8,10.9l-8.1,13.7l-4.1,10.4v20.5
+		l3,10.3L32,235.9l9.8,8.4l13,6.8l13,4l18,1.4l13.5-3.2l8.5-4.3l13.2-13.4l6.2-12.8l2.4-13l2.6-3.1l3.1-7.3v-12.1l7.3,2.5h17.3
+		l9.9-7.1l2.8-8.9l5.7-11v-12l-2.8-11.7l-4.2-4.3l-20.3-9l-3.9-5.3l2.2-6.7l8-6.6l16.4,11.6l13.9,0.2l9.1-4.4l0.6-5.5l-3.1-3.5
+		l1.3-1.3l7.6,1.2l5.1-5.1l0.1-4.6l10.4-5l6.2-12.3l-0.4-12.9l-5-11.8l-6.8-6.7l-7.1-3.6L193,41.2l-7.1,0.8l-3.3-6l-2.5,0.8
+		l-2.8,8.8l-7.5-4.3l-7-0.1l3.8-2.8l13.2-4.5l12.7,0.6l6-5.7l3.8-7.5l-1.5,0.1l-3.9,2.9h-6.8L174.8,8.4l-8-3.6l-16.9,0.3l-13.1-2
+		l-25.3,0.5L83.3,11L44.3,26.4z"/>
+</g>
+<g id="prop_1_11_1" transform="translate(1658, 835)">
+	<rect x="-35" y="-39" class="st0" width="73" height="90"/>
+	<title  style="display:none">Barrel</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="72" height="89" xlink:href="../../_common/prop_sprites//storage_1_11_1_barrel.png"  transform="matrix(1.0123 0 0 1.0123 5.769614e-02 -4.677710e-02)">
+	</image>
+	<path class="st1" d="M8.9,5.7l-1.6,6l0.3,7l-2.7,11l-1.3,1.6l0.8,31.4L6,68.8l5.5,8.7l0.3,9.6l1.7,2.1L56,89.8l6.7-0.9l1.9-3.8
+		l-2-5.9l2.3-6.7l3.1-2.9L72.4,59L70,56.2l0.4-17.5l2.2-1.3l-1.3-7.7L68,27.3l-3.5-7.9l1.1-8.2l-2.4-5.7l-27.9-2L8.9,5.7z"/>
+</g>
+<g id="prop_1_11_2" transform="translate(1787, 798)">
+	<rect x="-46" y="-35" class="st0" width="97" height="86"/>
+	<title  style="display:none">Barrel Side</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="96" height="85" xlink:href="../../_common/prop_sprites//storage_1_11_2_barrel_side.png"  transform="matrix(1.011 0 0 1.011 -2.844564e-02 3.206505e-02)">
+	</image>
+	<path class="st1" d="M39.3,5.3v4.9H29.1l-14.8,6.2l-6.4,7.2l-4.2,9.1v23L9,65.8l15.4,14.6l7.3,3l39.8,2.5l9.5-2.7l8.7-8l3-5.9
+		l3.8-18.2l-0.3-13l-4.9-9.6l-7.5-6.6l-26-11.7h-5.6v-7l-6.5,0.2L39.3,5.3z"/>
+</g>
+<g id="prop_1_11_3" transform="translate(1787, 688)">
+	<rect x="-54" y="-49" class="st0" width="121" height="100"/>
+	<title  style="display:none">Crate Big</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="120" height="99" xlink:href="../../_common/prop_sprites//storage_1_11_3_crate_big.png"  transform="matrix(1.009 0 0 1.009 -4.297516e-02 5.200512e-02)">
+	</image>
+	<path class="st1" d="M5.4,6L3,7.4l0.7,90.8l6,1.1l110-0.6l0.6-89.8l-1.6-1.6L83.3,3.2L5.4,6z"/>
+</g>
+<g id="prop_1_11_4" transform="translate(1734, 1052)">
+	<rect x="-36" y="-18" class="st0" width="71" height="69"/>
+	<title  style="display:none">Crate Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="70" height="68" xlink:href="../../_common/prop_sprites//storage_1_11_4_crate_small.png"  transform="matrix(1.0145 0 0 1.0145 -7.140618e-03 7.308746e-03)">
+	</image>
+	<path class="st1" d="M4,68.6l66,0.2l0.3-65.7L4.2,3.2L4,68.6z"/>
+</g>
+<g id="prop_1_12_1" transform="translate(1127, 1116)">
+	<rect x="-28" y="-27" class="st0" width="57" height="77"/>
+	<title  style="display:none">Globe</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="56" height="76" xlink:href="../../_common/prop_sprites//study_1_12_1_globe.png"  transform="matrix(1.0148 0 0 1.0148 8.520880e-02 -6.297129e-02)">
+	</image>
+	<path class="st1" d="M8.1,17.4l-4.3,9.3v20l5.4,9.2l7.8,7l10.3,5.8l1,2L6.8,73.8l-0.6,3.3h50.4l-0.4-2.6l-20.8-4.1l-0.8-9.5
+		l4.7-1.4l7-3.5l5.6-6.1l4.1-9l-0.2-11.5L50.4,19l-6.7-4.6L37,11l-11.4,0.1l-1.9-6.4l-3-0.5L8.1,17.4z"/>
+</g>
+<g id="prop_1_12_2" transform="translate(1542, 977)">
+	<rect x="-48" y="-64" class="st0" width="90" height="119"/>
+	<title  style="display:none">Telescope</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="89" height="118" xlink:href="../../_common/prop_sprites//study_1_12_2_telescope.png"  transform="matrix(1.0095 0 0 1.0095 7.828572e-02 -5.916718e-02)">
+	</image>
+	<path class="st1" d="M77.2,7L42.8,25l0.5,2.8l-19,9.4h-2.9l-3.6,3.7L3.3,48.4v4.5l3.9,3.5l3.1-1.1v-2.1h1.9l10.2-6H24l17.8-10h1.6
+		l-4.1,5.3l4.3,4.7h-9.3l-3,4.7l1.2,3.2l-14,51.1l2.1,1.3l-1.5,11.4l0.9,0.4l4.7-10.3l2.3-1l13.7-52.7l2.6,1.6l3,51.3l2.8,0.3
+		l0.9,9.9l1.6,0.6l0.9-11l1.4-1.3L51,55.2h3.1l16.1,53h3l3.6,9.7l1.7-0.2l-1.8-10.6l1.4-1.5L63,55.7l-0.3-4L61,46.2h-3.9l2.2-4.1
+		L56,33.2l0.8-0.8l30.7-14.7l1.9-4.8l-1.3-5.7l-2.9-3h-5.7L77.2,7z M53,40.7L44.8,40l4.6-3.8H51L53,40.7z"/>
+</g>
+<g id="prop_1_12_3" transform="translate(2199, 320)">
+	<rect x="-30" y="-71" class="st0" width="58" height="123"/>
+	<title  style="display:none">Gramophone</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="57" height="122" xlink:href="../../_common/prop_sprites//study_1_12_3_gramophone.png"  transform="matrix(1.0099 0 0 1.0099 0.2185 -0.1026)">
+	</image>
+	<path class="st1" d="M24.8,6.7L15.4,16L8.6,29.7l-1.4,9.6l2.3,6.9l3.7,2h5.1l12.5-5.1L42,41.9l3.4,5.3L44.6,50l-9.1-0.7L33,52.1
+		l1.3,4.1l-21-0.3l-0.4,1.5l12.9,0.5l-16,0.3l0.1,15.1l-6.2,0.3L4,88.3l2.3,4.9l-1.2,22l3.3,2l-0.2,4.6h4v-5.5h8v6.6h3v-6.4l15,0.3
+		v5.7l3,0.3l0.1-6.5h8.8l0.4,6.3l2.7-0.1v-6.2h3V73.8l-2.5-1.6h-4.3L48.3,69v-4.3l2.8-3.5V48.8L50,42.2l3.3,1.2V39l-5,1.2l-5.5-8.4
+		V8l-5.6-4.8h-5.4L24.8,6.7z M47.1,58.4H32.9l0.4-0.5l12.3-0.4L44,55.1l-7.8,1.3v-1.5l3.5-2.6l7.6-0.1L47.1,58.4z"/>
+</g>
+<g id="prop_1_12_4" transform="translate(1785, 387)">
+	<rect x="-83" y="-84" class="st0" width="171" height="136"/>
+	<title  style="display:none">Piano</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="170" height="135" xlink:href="../../_common/prop_sprites//study_1_12_4_piano.png"  transform="matrix(1.0065 0 0 1.0065 -5.015592e-02 6.307111e-02)">
+	</image>
+	<path class="st1" d="M26.4,5l-8.9,5.2l-5.2,6.2l0.1,4.3l1.4,3.3l18.7,15l-8.7,16.2H13.3v2.6l1.8,1.9l1.1,10.6l-4.3,0.4l-4,12.5
+		l-4.4,0.9l0.8,6.4l10.4,0.2l1.3,3h-5.8v5h3l0.2,36.3h4l-0.1-20.8h4v1.6l-3.1,10.5l1.5,4.7h1.9l-0.1,2.9h3.7l0.1,1.8l1.8,0.1
+		l1.1-7.9l-0.8-13.8h20.5v6.9l-2.7,5.6l1.2,7.4h5.9l2.4-5.1l-3.2-8.4l-0.2-6.4l26.3,0.1v9.7h-2v5h-4v5h23v-10h-2v-9.7l4.7-0.1
+		l0.2,19.9h4l0.3-20.1l5.9-0.1v21h2v-32.5l0.9-8.2h22.3V99l2.8,3.3v17.5l-1.9,6.7l2.4,7.6h5.4l2-6l-1.5-10.1l0.4-23.8l11.2,0.1v4.6
+		l1.7,2.1l0.2,19.8l-2.6,7.4l1.8,5.9h6l1.8-5l-2.6-9.5l0.1-17.3l1.3-1.8l0.2-10.3l8.7-0.1V58.4l-9.5-2.3l-9-5.8l-22.3-26.5l-2.1-1.8
+		l-27.7,3.6l-18.6-4.2L55.6,7.3L44.5,4l-8.8-0.3L26.4,5z M52.8,55.4l-27,0.1l8.4-15.6L52.8,55.4z M87.6,124h-6v-9.7h6V124z"/>
+</g>
+<g id="prop_1_22_1" transform="translate(763, 676)">
+	<rect x="-186" y="-183" class="st0" width="333" height="151"/>
+	<title  style="display:none">Cloud Black 1</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="332" height="150" xlink:href="../../_common/prop_sprites//backdrops_1_22_1_cloud_black_1.png"  transform="matrix(1.0036 0 0 1.0036 -0.103 0.2276)">
+	</image>
+	<path class="st1" d="M217.8,9.7l-4.5,6.8l-1.3,7.7h-1.6L209,22l-9.8,0.9l-1-1.7l-7.8-4h-8.9l-12,9l-10.2,12.5v2.4l2.1,5.6
+		l-1.3,16.5h-12.6L135.1,67l-7.5,5.3l-2.4,5.3l-1.2,9.8l-5.1,1.9l-4.6-5l-16.8-2.2L94,78.2h-6.4l-8.8,6.2l-3.5,4.3v7.5h-6.5
+		l-6.3,3.8l-3.6,9.4l2.2,5.7l-2.3,3l-7.5,0.5l-2.4-2.4h-3.2l-9.7,6.1l-2.1-2.1h-6.3l-3.6,4h-3.3l-2.1,2.1l-11.2,1.2l0.9,1.4
+		l11.7,1.4l6.8,5l9.3-1.1l5.7,2.1l4,3.5l19.9,5.6l8.3-1.1l7.7,3.9h13.7l4.4-2.3l19-4.9l81.7,5.6l27.3-4.3l41-0.2l29.5-6.9l5.1-3.3
+		l10.4,1.2l15.7-2.8l1.3-1.3l-3.7-2.3l-11.2-11l-4-2l-1.2-5l-14.9-7.1l-6-12.3l-3.8-4.1l-6.2-1.1l-5,1.8l-4.7-5.1l2.2-3.6V60.7
+		l-2.1-7.4l-4.9-3.9v-5.1l-2-1.2v-4.8l-5.5-3.8l-4.4-1.4l-2.4-7.4l-9-16l-4-4.5h-11.3L217.8,9.7z"/>
+</g>
+<g id="prop_1_22_2" transform="translate(1646, 142)">
+	<rect x="-127" y="-166" class="st0" width="241" height="140"/>
+	<title  style="display:none">Cloud Black 2</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="240" height="139" xlink:href="../../_common/prop_sprites//backdrops_1_22_2_cloud_black_2.png"  transform="matrix(1.0049 0 0 1.0049 -9.135890e-02 0.1575)">
+	</image>
+	<path class="st1" d="M60.5,13.4l-8.9,9l-3.3,6.9v6.1L46,40.3l1.4,7.1l5.5,5.6l3.9,2.3l-5.5,2.2v2h-6.8l-6.2,5.2l-5.4,9.1l-0.1,12.6
+		l2.5,2.5V92l-4.5,5.3l-11.6,3.3l-4.1,4.1l1.1,8.6l-10.9,6.2v3.8l16.9,7.2h18l2.2,4l6.3,3.3l23.4-1l16.1-5.7l4,3.6l32.2,2.7l4.9-2.2
+		v-1.4l19.5-1.1l14-5.1l5.1,5.6l14.2,3.5l7.7-2.2h10.3l9.7-4.3l17-2.7h10.4l1.2-2h-1.6l-13.1-1.9l-11.5-5.1h-6l-5.9-4.4l-9.1,2.4
+		l-1.9-1.1v-2.8l-5.9-3.1l-4.6,0.1l-3.8,2.8l-7.4-5.8l1.9-12.6l-0.2-2.2l-10-12.2l-7.9-2.2l-1.2-1.9h-10.5l-4.5,3.2l-2.9-2.4
+		l-5.6,1.1l-2.6-1.7l2.6-7.2l-2.6-7.2l2.2-2.2V49l-3.7-8.2l-5.6-4.3h-7.2l-7.3,3.9l-5.2-5.5l3-2.9l2-10.9L97.8,12l-9.7-6.5L76.8,5.6
+		L60.5,13.4z"/>
+</g>
+<g id="prop_1_22_3" transform="translate(324, 1062)">
+	<rect x="-184" y="-140" class="st0" width="340" height="123"/>
+	<title  style="display:none">Cloud Black 3</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="339" height="122" xlink:href="../../_common/prop_sprites//backdrops_1_22_3_cloud_black_3.png"  transform="matrix(1.0036 0 0 1.0036 -0.1022 0.2833)">
+	</image>
+	<path class="st1" d="M83.4,10.2l-5.2,10.4v6.3L76,33.1l-7.3,4.4L54.2,37l-7.6,5l-3.4,7.3l3,14.4l-3.7,4l-2.3,4.5h-8.4l-7.6,2.1
+		l-4,6.4l0.5,6L19,89.3l-8.7,4.1L5,98.2l0.9,2.5l6.8,2.3l36.8,2.2l7.7-2.3l4.1,4.3h3.5l2.4,6.6l7.5,4.2l12.6,2.5l32.4-1.2l8.9-2.2
+		l2.8-2.3l26.3-0.1l11.4-5.3l4.2,1.1l10-4.7l8.9,2.4l65.5-3l5.5-1.2l3-4.2l10.9-0.6l1.2,2h6.3l7.9,5.5h25.2l7-4.2l-0.6-3.3h5.8
+		l6.3-1.2v-2.6l-8.9-5.2h-7.1v-8.5l-4.7-10.2l-6.4-2.6l-8.5,1.2l-3.9-5.9l-6.3-3h-8.1l-1.3-6.8l-3.6-6l-9.2-6.3l-8.1-2.8l-13.6-0.6
+		l-6.8,5.2l-9.4-2.1l-1.1-6.1l-7-9.4l-5.4-3.6h-17.9l-6.8-6.8l-8.9,1.3l-4.1,2.5l-4.4,7l-1,10l-8.4,0.3l-11.9,6.4L149,41l1.5-4.3
+		l0.9-9.8l-2.3-7.7l-6.4-7.3l-8-3.7h-6.2l-8.3,6H119l-1.3-0.1l-8-5.9l-6.4-3H89.4L83.4,10.2z"/>
+</g>
+<g id="prop_1_22_4" transform="translate(1373, 473)">
+	<rect x="-100" y="-170" class="st0" width="159" height="159"/>
+	<title  style="display:none">Moon</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="158" height="158" xlink:href="../../_common/prop_sprites//backdrops_1_22_4_moon.png"  transform="matrix(1.0063 0 0 1.0063 0 -4.036987e-05)">
+	</image>
+	<path class="st1" d="M52.7,27.4L41.8,34l-9.1,9.8L25.4,55l-5,16.3l0,13.8L23,98.8l4.5,11.4l6.6,10.2l8,8l9.3,5.2l8.7,4.6l10.5,3.5
+		l10.2,1l9.7-1l9.4-2.1l11.2-4.3l11.7-8.3l9.2-10l6.4-10.4l3.3-10.8l1-14.5l-1-14.4l-4-10.8l-5.2-10.4l-8.1-10.3l-9.6-6.7l-9.3-4.5
+		l-10.8-3.2L84,20.2l-11.8,1.2l-10.5,2.3L52.7,27.4z"/>
+</g>
+<g id="prop_1_22_5" transform="translate(1963, 662)">
+	<rect x="-188" y="-101" class="st0" width="338" height="40"/>
+	<title  style="display:none">Black Water</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="337" height="39" xlink:href="../../_common/prop_sprites//backdrops_1_22_5_black_water.png"  transform="matrix(1.0033 0 0 1.0033 -5.105392e-02 0.4362)">
+	</image>
+	<path class="st1" d="M27.5,9.1L24,11.7l33,2.6l-0.6,4.1l-38,3.5l-0.1,2l67.1,4.4l12.1,5.2l109.9,3.6l69.9-2l0.1-2.1l-14.6-2.6
+		l53.6-2.6l-0.2-5.8l-30.3-4l30.3-4.4l-0.1-3.3l-26.5-4.6l-228-0.3L27.5,9.1z"/>
+</g>
+<g id="prop_1_22_6" transform="translate(395, 187)">
+	<rect x="-164" y="-158" class="st0" width="295" height="142"/>
+	<title  style="display:none">Black Rect</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="294" height="141" xlink:href="../../_common/prop_sprites//backdrops_1_22_6_black_rect.png"  transform="matrix(1.0041 0 0 1.0041 -0.1016 0.2115)">
+	</image>
+	<path class="st1" d="M3.3,141.3h291V4.2H3.3V141.3z"/>
+</g>
+</svg>

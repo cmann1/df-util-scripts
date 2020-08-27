@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:none;}
+	.st1{fill:none;stroke:#FF0000;stroke-width:0.5;}
+</style>
+<g id="prop_4_28_1" transform="translate(5, 397)">
+	<rect x="129" y="104" class="st0" width="149" height="168"/>
+	<title  style="display:none">Panel Big</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="148" height="167" xlink:href="../../_common/prop_sprites//machinery_4_28_1_panel_big.png"  transform="matrix(1.0063 0 0 1.0063 3.185656e-02 -2.825640e-02)">
+	</image>
+	<path class="st1" d="M3.3,30.7v79.1l7.6,7.4h32.9l15.1,15v29.2l6,5.8h38.2l45.3-45.8l-0.1-91.7L121.8,3.2h-91L3.3,30.7z"/>
+</g>
+<g id="prop_4_28_2" transform="translate(578, 274)">
+	<rect x="148" y="158" class="st0" width="164" height="79"/>
+	<title  style="display:none">Panel Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="163" height="78" xlink:href="../../_common/prop_sprites//machinery_4_28_2_panel_small.png"  transform="matrix(1.0074 0 0 1.0074 -0.1018 0.212)">
+	</image>
+	<path class="st1" d="M3.2,22.7l0.1,43.1l12.6,12.4H109l4.3-4.6V52.7l16.5-16.5h18l15.5-15.5V10.6l-7.6-7.4L23.8,3.3L3.2,22.7z"/>
+</g>
+<g id="prop_4_28_3" transform="translate(164, 420)">
+	<rect x="162" y="109" class="st0" width="128" height="127"/>
+	<title  style="display:none">Panel Medium</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="127" height="126" xlink:href="../../_common/prop_sprites//machinery_4_28_3_panel_medium.png"  transform="matrix(1.0079 0 0 1.0079 -1.968473e-03 1.970578e-03)">
+	</image>
+	<path class="st1" d="M90.9,18.7l0,4.2L29.1,84.9l-13.8,0.4L3.5,97.1l-0.2,22.7l6.6,6.7l111.4-0.1l6-5.4V11.8l-8.4-8.6h-13.1
+		L90.9,18.7z"/>
+</g>
+<g id="prop_4_28_4" transform="translate(164, 557)">
+	<rect x="153" y="99" class="st0" width="86" height="185"/>
+	<title  style="display:none">Tall</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="85" height="184" xlink:href="../../_common/prop_sprites//machinery_4_28_4_tall.png"  transform="matrix(1.0066 0 0 1.0066 0.2216 -0.1027)">
+	</image>
+	<path class="st1" d="M7.8,6.3l-4.7,6.8l1.7,28.1L5.2,149l-1.4,32.9l0.3,3.1l80.8,0.1l-2.2-53.3l1-16.3V36.4L85,14.7l-3.5-8.3
+		L43.8,3.2L7.8,6.3z"/>
+</g>
+<g id="prop_4_28_5" transform="translate(872, 192)">
+	<rect x="103" y="126" class="st0" width="189" height="149"/>
+	<title  style="display:none">Fat</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="188" height="148" xlink:href="../../_common/prop_sprites//machinery_4_28_5_fat.png"  transform="matrix(1.0059 0 0 1.0059 -5.172767e-02 6.564773e-02)">
+	</image>
+	<path class="st1" d="M21.3,6.1l-18,16.4v10.3l6,5.8v74.5l-5,5v27.7l2.4,2.4H182l3.3-3.7v-27.2l-5-3.9V43l8-9.6V22.7L171.8,6.2
+		l-34-2L21.3,6.1z"/>
+</g>
+<g id="prop_4_28_6" transform="translate(752, 351)">
+	<rect x="124" y="149" class="st0" width="156" height="35"/>
+	<title  style="display:none">Gasket Big</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="155" height="34" xlink:href="../../_common/prop_sprites//machinery_4_28_6_gasket_big.png"  transform="matrix(1.0075 0 0 1.0075 -8.257664e-02 0.3722)">
+	</image>
+	<path class="st1" d="M4.3,7.4v22.8l6.5,4h136.6l7.9-4v-22l-8-4.5L10.8,3.9L4.3,7.4z"/>
+</g>
+<g id="prop_4_28_7" transform="translate(343, 229)">
+	<rect x="130" y="87" class="st0" width="142" height="152"/>
+	<title  style="display:none">Pipe Big</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="141" height="151" xlink:href="../../_common/prop_sprites//machinery_4_28_7_pipe_big.png"  transform="matrix(1.0068 0 0 1.0068 1.768703e-02 -1.653302e-02)">
+	</image>
+	<path class="st1" d="M4.3,8.4v4l7,8.2v1.3l-7,3.8v2.5l4,4l3.3,0.8l-0.1,4.9L4.9,43l9.7,10.3H9.4L4.8,57l3.7,4.8l6.3,0.4V67
+		l-4.1,0.7L5,71.9l7.3,6.2v5.3l-8.5,3.3l5,3.7l2.9,0.4l-0.1,7.9l-5.3,3.6v1.3l5.6,3l-1,4.9L6,115.3l5.3,3.6l-1.1,7l-6.8,2.9l0.1,3
+		l7,6.8l-5.3,5.1l6.5,3.9l-0.1,4l121.9-0.1v-3.9l7.1-2v-2.2l-3.4-4.8l-3.9-0.4l0.1-3.4l7.8-6.9l-5.3-5.8l-3.8-1.2v-4.5l7.7-4.9
+		l-5.3-5.3l-5.1-0.2v-3.7l2.5-0.1l6.5-5.9v-1.7l-4.6-4.3h-3.4v-4.1l6.7-2.8l3.5-4.3l-6.2-3.8v-4.9l4.1-2.2l1.6-4.4l-2.2-3.5
+		l-8.2-0.4l0.1-3.5l8.4-6.6l-6-6.3l5.9-2.9l2.2-3.5l-6.8-2.8v-5.8l7.9-3.2l0.5-2.5l-8-3.5v-4h4.5l1.2-5.1L134,4.3H10.8L4.3,8.4z"/>
+</g>
+<g id="prop_4_28_8" transform="translate(5, 229)">
+	<rect x="132" y="89" class="st0" width="170" height="158"/>
+	<title  style="display:none">Pipe Big Corner</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="169" height="157" xlink:href="../../_common/prop_sprites//machinery_4_28_8_pipe_big_corner.png"  transform="matrix(1.0061 0 0 1.0061 -1.770557e-02 1.904113e-02)">
+	</image>
+	<path class="st1" d="M5.8,5.4L3.3,8.5l6.4,4.7h4.6v2.1l-2.1,3.9H8.4l-3.7,4.7l4,3l3.5,1.2v8.3l-5.8,2.2l-3.7,6.5l10.5,2.4l1.1,1.7
+		l-3.1,3.2l-2.3,4.1l3.8,2.9l8.8-1.2l0.8,1.9l-4,2.1l-2.4,8.4l8.4,0.6l6.4-2.7l0.5,6.6l-3.7,2.6l-3.8,10.9l12.1-0.6l4.3,2.2l3.4,6.4
+		l-0.1,13.9l1.8,10.9l14.9-2.5l2.1-3.8h3.5l6.9,5.1l3.7,10l-2.8,4.1l5.6,14.7l11.4-4.7l1.9-4.2L103,141l-0.5,3.1l7.5,8.5l5.6-1.4
+		l2.8-5.6l11.8,0.2l2.5,1.9v4.9l2.8,1.1l5.1-3.4l1.2-3.8l7.1,0.5l4.8,2.6l1.3,7.1l3.3-0.3l4.4-3.1l-0.4-4.2l6.4,0.3V28.6l-4.1,0.8
+		l-5.6-6.7l-8-2.7l-1.6,2.6l-1.3-5.4l-3.6,2l-0.8-2.3l-6.7,3.3l3.6-3.3v-3.3l-3-0.4l0.8-4.5l-4.2-5.5L9.8,3.3L5.8,5.4z"/>
+</g>
+<g id="prop_4_28_9" transform="translate(423, 542)">
+	<rect x="175" y="146" class="st0" width="60" height="37"/>
+	<title  style="display:none">Gasket Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="59" height="36" xlink:href="../../_common/prop_sprites//machinery_4_28_9_gasket_small.png"  transform="matrix(1.0199 0 0 1.0199 -8.700053e-02 0.1418)">
+	</image>
+	<path class="st1" d="M3.3,7.1l0.1,25.6L6,36.4h50.2l2.8-3.9V7.3l-2.8-4.2H5.3L3.3,7.1z"/>
+</g>
+<g id="prop_4_28_10" transform="translate(260, 557)">
+	<rect x="181" y="91" class="st0" width="65" height="142"/>
+	<title  style="display:none">Pipe Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="64" height="141" xlink:href="../../_common/prop_sprites//machinery_4_28_10_pipe_small.png"  transform="matrix(1.0086 0 0 1.0086 0.2262 -0.1031)">
+	</image>
+	<path class="st1" d="M16.3,8.2h-3.1l-9.7,6.5l4,5.5h7.1v3.6L8.6,27l-3.7,4.1l3.3,5.1h6v3H9.6l-5.9,6.2l4.7,3.8h5.8v4h-2.8l-4.2,7.1
+		v2.6l3.7,3.3h4.3v3.9l-9,5.3v1.5l4.5,4.1l4,0.7l0.6,3.5h-4.6L5.8,89l2.7,6.5l6.7-0.2v4l-6,5.4l0,3.6l2.1,3.9l5.4,0.2l-0.8,1.3
+		l-4.2,0.6L5.2,120l3.3,3.7h7.7l0.2,5.2h-4l-4.3,8.2l4.4,4.8l44.8-0.2l3.2-6.2l-3.4-5.4l-2.6-0.4v-5.8l6.6-0.3l2.3-5.9l-4.2-3
+		l-4.8-0.2v-2l3.4-0.4l2.4-2.4v-3.5l-3.4-7.1h-3.6v-4H60l4.2-4.6l-6.8-5.4h-4.1v-3h5.9l4.1-5.3l-6.5-5.6l-3.5-1.2v-3.9h2.9l3.1-5.9
+		l-6-6.9v-4.2h6l2.4-5.2l-2.1-3.3l-6.3-1.9v-3.6h4.2l3.7-4.5l0.1-1.4l-8-4.6v-5.5h3.9l3.1-4.4v-1.5l-10-6.4V3.2h-34
+		C16.3,3.2,16.3,8.2,16.3,8.2z"/>
+</g>
+<g id="prop_4_28_11" transform="translate(5, 575)">
+	<rect x="181" y="91" class="st0" width="115" height="120"/>
+	<title  style="display:none">Pipe Small Corner</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="114" height="119" xlink:href="../../_common/prop_sprites//machinery_4_28_11_pipe_small_corner.png"  transform="matrix(1.0086 0 0 1.0086 1.095386e-02 -1.050899e-02)">
+	</image>
+	<path class="st1" d="M16.9,8.3h-3.1l-9.7,6.5l4,5.5h4.5l3.3,3.7v2.7l-7.4,7.6l12.7,13.2l-2.1,1.3l-4,7.9l5.9,2.6l5.8-3h3.7l4.2,3
+		l-3.8,7.5L29.6,73l4.7,1.3h5.3l3.6,3.9l-3.6,7.2l1.1,2.9l5.3,2l2.7-2.2l4.6,0.7v4l4,6.7l6.5-0.8v2.8l3.2,6.8h6.7l1.7-3l10.5,3.1
+		l1.7,4.4l4.9,6.5l4.2-4.5L98,100l1.3,2l1.5,8.3l6.7,4.1h3.3l2.8-4.5l1.3-44.3l-5.1-3.3l-6.9,5.1H102l0.3-3.1l-5.6-3.4l-3.9,4.7
+		l-1.2-3.2h-7l1.2-3.1l-2.9-5.6l-6.6,0.9l2.5-2.6v-6.6h-5.2l1-5.4l-1-2.6h-5.7l-0.6-6.5L62,29.8l2.7-3.8l-12.4-6.5l5.4-0.1l3.3-5.4
+		L50.8,7V3.3h-34v5H16.9z"/>
+</g>
+<g id="prop_4_28_12" transform="translate(1071, 5)">
+	<rect x="145" y="-7" class="st0" width="112" height="226"/>
+	<title  style="display:none">Tube</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="111" height="225" xlink:href="../../_common/prop_sprites//machinery_4_28_12_tube.png"  transform="matrix(1.0053 0 0 1.0053 0.2037 -0.1007)">
+	</image>
+	<path class="st1" d="M46.8,6l-5.9,6.2h-5.2l-9.8,10H14.6L4.3,32.8V44l6.9,5.2h5.1l-4,5.3l-0.1,157l3.8,3.8l-2.9,3.7l1.5,6.6
+		l86.3-0.5l1-7.4l-1.8-3.7l3.2-3.5V54.8l-5.4-5.6h7l6.4-6.6v-8.8L99.8,22.2H88.7l-9.8-10h-5.3l-4.8-5.3l-6.4-2.7L50.8,4.3L46.8,6z"
+		/>
+</g>
+<g id="prop_4_28_13" transform="translate(495, 274)">
+	<rect x="153" y="19" class="st0" width="73" height="273"/>
+	<title  style="display:none">Wire</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="72" height="272" xlink:href="../../_common/prop_sprites//machinery_4_28_13_wire.png"  transform="matrix(1.0043 0 0 1.0043 0.3435 -9.139138e-02)">
+	</image>
+	<path class="st1" d="M6.1,77.3l4.6,23.4L21.2,163l-0.1,11.8L13,202.6l-5.7,27.7L5,253.1l0.1,19.7h65l2.1-12l0.3-18l-5.3-43.7
+		l0.7-18l-1.6-21.5l-3-16.3l3.2-9l3.8-20.5l1.5-33.5L69,15.8l1.9-11.5L5.4,2.9l-1,59.4L6.1,77.3z"/>
+</g>
+<g id="prop_4_28_14" transform="translate(343, 391)">
+	<rect x="159" y="22" class="st0" width="70" height="272"/>
+	<title  style="display:none">Wire Straight</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="69" height="271" xlink:href="../../_common/prop_sprites//machinery_4_28_14_wire_straight.png"  transform="matrix(1.0044 0 0 1.0044 0.3499 -8.957890e-02)">
+	</image>
+	<path class="st1" d="M4.2,271.7h65V3h-65C4.2,3,4.2,271.7,4.2,271.7z"/>
+</g>
+<g id="prop_4_28_15" transform="translate(872, 5)">
+	<rect x="159" y="22" class="st0" width="168" height="177"/>
+	<title  style="display:none">Wire Corner</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="167" height="176" xlink:href="../../_common/prop_sprites//machinery_4_28_15_wire_corner.png"  transform="matrix(1.0058 0 0 1.0058 1.345354e-02 -1.278098e-02)">
+	</image>
+	<path class="st1" d="M3.8,52.2l1.8,16.9l4.5,12.4L24,109.9L37.3,126l19.2,12.5l15.8,6.8l15.9,3.9l5.9,10.7l6.8,5.2l15.2,5.1
+		l24.7,5.4l26.9,0.9l-0.1-65.2l-10,0.9l-18.6,4.1l-14.3,0.1l-12.9-5.1L80.9,92.9l-8.1-20.3l-4-14.8V3.2h-65V52.2z M39.3,82.6
+		l10.4,14.9l11.4,9.5l10.1,5.5l6.8,10.7l-1.4,0.3l-11.4-5.4l-11.6-6.7l-10.8-10.2l-8.3-13.5l-5.6-11.3l-2.4-9.7l-0.1-17.3l1.8,0.8
+		l4.9,17.1L39.3,82.6z M92.8,125l-0.3-1.8l3.1,0.1l2.2,2.1L92.8,125z"/>
+</g>
+<g id="prop_4_28_16" transform="translate(1071, 241)">
+	<rect x="183" y="17" class="st0" width="67" height="308"/>
+	<title  style="display:none">Wire Coloured</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="66" height="307" xlink:href="../../_common/prop_sprites//machinery_4_28_16_wire_coloured.png"  transform="matrix(1.0038 0 0 1.0038 0.3751 -8.112534e-02)">
+	</image>
+	<path class="st1" d="M15.1,225.5l-4,33.4l-4.3,15.6l-3.3,21.6l1,11.7l60.8,0.3l-0.6-17.3L62,274.1l-0.5-13.7l2-14.8l1.8-27.3V186
+		L62,146.6l1.7-22l-0.3-31.8l-3.3-19.4L60,60.7l4.4-28l1.2-29.5H4.3l0.9,29.1l2,12.4l0.4,27.1l1.6,15.8l0.1,20.1l-3,25.8l0.4,21.1
+		l2.7,18.1l0.2,7.5l2.1,16.9l3.1,18.5L15.1,225.5z"/>
+</g>
+<g id="prop_4_28_17" transform="translate(185, 229)">
+	<rect x="184" y="17" class="st0" width="148" height="181"/>
+	<title  style="display:none">Wire Coloured Corner</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="147" height="180" xlink:href="../../_common/prop_sprites//machinery_4_28_17_wire_coloured_corner.png"  transform="matrix(1.0061 0 0 1.0061 5.497720e-02 -4.493934e-02)">
+	</image>
+	<path class="st1" d="M3.8,24.1L5,32.9l3.8,5.3l3.1,9.9l8.4,14.5l14,15.5l8.8,35.3l7.3,14.3l9.1,10.6l13.2,10.1l20,9.7l15.9,4.3
+		l7.9-2.6l4.1,5.5l9.1,9.6l7.7,4.6l9.6,0.1v-61l-15.9-0.2l-7.3,2.6l-4.4,2.3l-6.6-0.3l-10.4-14.3l-9.6-10.9l-8.2-5.4l-7.3-9.1
+		l-11.1-4.4l-7.2-11.4L58,59.2l5.5-12.4l0.9-43.6h-61L3.8,24.1z"/>
+</g>
+<g id="prop_4_28_18" transform="translate(423, 478)">
+	<rect x="159" y="217" class="st0" width="54" height="54"/>
+	<title  style="display:none">Light Big</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="53" height="53" xlink:href="../../_common/prop_sprites//machinery_4_28_18_light_big.png"  transform="matrix(1.0189 0 0 1.0189 0 -1.345662e-05)">
+	</image>
+	<path class="st1" d="M18.3,5l-7.7,5l-6.2,9.4L3,28.2l1.3,8.9l6.4,9.5l9.7,6.3L33,53.7l9.2-3.8l6.3-5.3l4.8-10.8l-0.1-10.1L50,15.5
+		l-5.3-7l-9.3-4.7l-9.4-0.6L18.3,5z"/>
+</g>
+<g id="prop_4_28_19" transform="translate(302, 420)">
+	<rect x="171" y="229" class="st0" width="30" height="30"/>
+	<title  style="display:none">Light Small</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="29" height="29" xlink:href="../../_common/prop_sprites//machinery_4_28_19_light_small.png"  transform="matrix(1.0345 0 0 1.0345 0 -1.345662e-05)">
+	</image>
+	<path class="st1" d="M6.5,7.3l-3.1,6v6.6l3.9,6.4l6,3.3h6.2l6-2.9l4.1-6.1l-0.2-7.6l-3.9-6.4l-6-3.1h-6.6L6.5,7.3z"/>
+</g>
+<g id="prop_4_22_1" transform="translate(423, 391)">
+	<rect x="292" y="104" class="st0" width="50" height="77"/>
+	<title  style="display:none">Satellite Dish</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="49" height="76" xlink:href="../../_common/prop_sprites//backdrops_4_22_1_satellite_dish.png"  transform="matrix(1.0153 0 0 1.0153 0.1253 -8.111513e-02)">
+	</image>
+	<path class="st1" d="M5.3,10.3L4,17.4l1,13.3L11,45l-7.1,7.6l2.7,7.2l5.4,1l6.7-4.1l8.9,10.9l12.1,8.3l6.6,0.3l2.4-2.4l-0.4-7
+		l-5.7-24L40,35.8l6-5l0.1-2.8L44,28.2l-5.9,4.2l-0.7-0.7l-7-14l-8-9.7l-5.7-3.8h-6.3L5.3,10.3z"/>
+</g>
+<g id="prop_4_22_2" transform="translate(5, 5)">
+	<rect x="64" y="167" class="st0" width="537" height="214"/>
+	<title  style="display:none">Structures Wide</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="536" height="213" xlink:href="../../_common/prop_sprites//backdrops_4_22_2_structures_wide.png"  transform="matrix(1.0023 0 0 1.0023 -0.1035 0.2602)">
+	</image>
+	<path class="st1" d="M112.3,18.2l1,71.3l46.3,30.7l1,20.2L107,163.2L76.4,148l-0.6-14.6l-7-3.4l-33-0.1l-6.5,4v23.5l-24.5,9
+		l0.3,45.3H536l0.2-47.4l-11.3-4.9l-0.5-52.6l-11-5v-8.6l-16.5,0.4l-13.5,6.2l0.2,36.9l-60.7,26.2h-21.6l-15.2-7h-36.2l-17-7.6
+		l-1-53.9L320,93.8l-33,13.9l-1.2,20.3l-15.6,6.9h-24l-25.9-11V71.4L205.5,64l-0.2,26.6l-9.1,6.1h-26.4l-17-10.4l-0.5-68L137.4,4.9
+		h-14.9L112.3,18.2z"/>
+</g>
+<g id="prop_4_22_3" transform="translate(552, 5)">
+	<rect x="148" y="128" class="st0" width="310" height="259"/>
+	<title  style="display:none">Structures Fat</title>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="309" height="258" xlink:href="../../_common/prop_sprites//backdrops_4_22_3_structures_fat.png"  transform="matrix(1.0035 0 0 1.0035 -4.060746e-02 4.860556e-02)">
+	</image>
+	<path class="st1" d="M122.3,22.9v137.3h-21.8l-6.2-5.2V61.7L77.8,45.2h-49L4.3,69.7l0.5,188l304.1,0.1l0.4-131.8l-7.8-7.8h-37.3
+		l-11.9,11.3v51.7h-25.5l-18.5-18.5v-144L193.9,4.2h-53.2L122.3,22.9z"/>
+</g>
+</svg>
