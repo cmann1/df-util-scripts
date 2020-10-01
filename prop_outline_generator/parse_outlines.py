@@ -3,6 +3,7 @@ from pathlib import Path
 from typing import Dict, List
 
 from _common import config
+from _common import props
 from bs4 import BeautifulSoup, Tag
 from svg.path import parse_path, Close, Move
 
@@ -95,7 +96,7 @@ class Main:
 				for group_index, group_list in enumerate(set_list):
 					if len(group_list) == 0:
 						if first_empty_group:
-							outfile.write(f'\t')
+							outfile.write(f'\t\t')
 							first_empty_group = False
 						
 						outfile.write(f'{{}}, ')
@@ -107,7 +108,7 @@ class Main:
 						first_group = False
 					
 					first_empty_group = True
-					outfile.write(f'\t\t{{ // Group {group_index}\n')
+					outfile.write(f'\t\t{{ // Group {group_index} - {props.GROUP_NAMES[group_index]}\n')
 					# print(group_list)
 					
 					for prop_index, prop_list in enumerate(group_list):
