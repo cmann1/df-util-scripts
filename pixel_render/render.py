@@ -5,7 +5,7 @@ import os.path
 import math
 import re
 import png
-from .font import RenderFont
+from font import RenderFont
 
 parallaxOffset = (0, 0) # A global offset for all parallax layers
 parallaxLayersOffset = { # Offsets for individual layers
